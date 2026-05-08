@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>WM × Imagery × Auditory Memory — Follow-Up Experiment</title>
+    <link rel="icon" href="data:," />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400&display=swap"
+    />
+    <style>
+      :root {
+        /* Set by screen-calibration step (Step 3); 1 mm = ~3.7795 px at 96 dpi as a temporary default. */
+        --mm: 3.7795px;
+      }
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: #000;
+        color: #fff;
+        /* Match Project 1's body typography (Merriweather Sans 300/400). The
+         * dark experimental background is retained because the grid + dot
+         * stimuli were authored against #000; switching to Project 1's beige
+         * (#e6dada) would break the contrast spec. */
+        font-family:
+          'Merriweather Sans',
+          -apple-system,
+          BlinkMacSystemFont,
+          'Segoe UI',
+          Roboto,
+          Oxygen,
+          Ubuntu,
+          sans-serif;
+        font-weight: 300;
+      }
+      .jspsych-display-element {
+        background: #000;
+        color: #fff;
+      }
+      .jspsych-content {
+        max-width: 720px;
+      }
+      /* Demo slides need the full viewport so (a) the longest task title
+       * ("Demonstration of Task 5 — Tones and pattern together") stays on
+       * one line and (b) the title/circle/hint can spread across the page
+       * height. `:has()` is supported in all evergreen browsers (Chrome 105+,
+       * Firefox 121+, Safari 15.4+) — well within Prolific's desktop matrix. */
+      .jspsych-content:has(.demo-frame) {
+        max-width: none;
+        width: 100%;
+      }
+
+      /* ─────────────────────────────────────────────────────────────────────
+       * Button + form-input theming — adapted from Project 1 (Nourbakhshi &
+       * Cowan 2025 prototype, App.css lines 72–99). Light card-style controls
+       * on the dark experimental background so action surfaces read clearly
+       * across calibration / instructions / probe-feedback contexts.
+       * Hover state uses Mizzou maroon (#772139), Project 1's accent.
+       *
+       * Surface colour is `#d8d4cc` — a warm dim off-white, ~85 % luminance.
+       * Pure white (`#fff`, 100 % L) was previously used but read as overly
+       * intense against the `#000` experimental background, especially on
+       * the longer instruction / VVIQ / music-experience screens; the
+       * dimmer surface keeps the action legible without demanding the
+       * participant's attention as aggressively. Hover lifts to `#ebe7df`
+       * (~92 % L) so the visual feedback on cursor entry is preserved.
+       * ──────────────────────────────────────────────────────────────────── */
+      .jspsych-btn,
+      .jspsych-display-element button,
+      .jspsych-display-element input[type='text'],
+      .jspsych-display-element input[type='number'],
+      .jspsych-display-element input[type='email'],
+      .jspsych-display-element select {
+        font-family: 'Merriweather Sans', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        color: #222;
+        background-color: #d8d4cc;
+        border: 1px solid #222;
+        border-radius: 0;
+        box-shadow: 0 1px 0 1px rgba(0, 0, 0, 0.04);
+        padding: 0.6em 1.4em 0.5em 0.8em;
+        line-height: 1.3;
+        margin-top: 0.4em;
+        margin-bottom: 0.4em;
+        cursor: pointer;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        appearance: none;
+      }
+      /* Buttons override the shared rule's asymmetric padding (which exists
+       * to leave room for the <select> chevron) so text sits at the
+       * geometric centre of the button. `text-align: center` is also set
+       * explicitly to defeat inheritance from instruction wrappers that
+       * set `text-align: left` on the surrounding card.
+       *
+       * `min-width: 7.5rem` and `box-sizing: border-box` give every button
+       * the same footprint regardless of label length, so a Previous/Next
+       * pair (`instructions` plugin in src/instructions/{memory,imagery,
+       * dual}.js) is visually balanced and "Continue" / "Enter fullscreen"
+       * / similar single-button screens land on a consistent floor width.
+       * Buttons whose labels naturally exceed 7.5 rem (e.g. "Enter
+       * fullscreen") expand past the floor; buttons that already set their
+       * own inline min-width — the headphone test's "1/2/3" picker (4 rem)
+       * — keep their inline override (inline style beats stylesheet rule
+       * by CSS specificity). */
+      .jspsych-btn,
+      .jspsych-display-element button {
+        padding: 0.6em 1em 0.5em 1em;
+        text-align: center;
+        min-width: 7.5rem;
+        box-sizing: border-box;
+      }
+      .jspsych-btn:hover,
+      .jspsych-display-element button:hover {
+        background-color: #ebe7df;
+        color: #772139; /* Mizzou maroon, per Project 1 hover state */
+        border-color: #772139;
+      }
+      .jspsych-btn:disabled,
+      .jspsych-display-element button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+      .jspsych-display-element input[type='text']:focus,
+      .jspsych-display-element input[type='number']:focus,
+      .jspsych-display-element select:focus {
+        outline: none;
+        border-color: #772139;
+        box-shadow: 0 0 0 3px rgba(119, 33, 57, 0.25);
+      }
+
+      /* Range slider (volume self-report). Default range styling on a black
+       * background renders as a thin grey line; widen + tint to match the
+       * Project 1 accent so it's discoverable. */
+      .jspsych-display-element input[type='range'] {
+        accent-color: #772139;
+      }
+
+      /* Keyboard focus ring. Default browser outlines (blue on Chrome, dotted
+       * on Firefox) blend into the dark theme on Windows / Firefox — VVIQ
+       * radios in particular were near-invisible when tabbed to. The Mizzou
+       * maroon ring matches the existing hover state and gives keyboard-only
+       * users (a non-trivial fraction on Prolific desktop) a visible cursor.
+       * `:focus-visible` (not `:focus`) — mouse-clicked elements don't get
+       * the ring, so the visual is reserved for true keyboard navigation. */
+      .jspsych-btn:focus-visible,
+      .jspsych-display-element button:focus-visible,
+      .jspsych-display-element input[type='radio']:focus-visible,
+      .jspsych-display-element input[type='checkbox']:focus-visible,
+      .jspsych-display-element input[type='range']:focus-visible {
+        outline: 2px solid #772139;
+        outline-offset: 2px;
+      }
+      .jspsych-display-element input[type='text']:focus-visible,
+      .jspsych-display-element input[type='number']:focus-visible,
+      .jspsych-display-element input[type='email']:focus-visible,
+      .jspsych-display-element select:focus-visible {
+        /* Text-style inputs already have a maroon border + glow on `:focus`
+         * (above); reinforce with a 2 px outline so high-contrast OS modes
+         * also surface a focus indicator. */
+        outline: 2px solid #772139;
+        outline-offset: 0;
+      }
+
+      /* Dim scrollbars — default WebKit scrollbars are bright grey on the
+       * dark theme; soften them so they don't compete with stimulus content
+       * during long instruction screens or VVIQ. Translucent white thumb on
+       * transparent track; brightens slightly on hover. */
+      * {
+        scrollbar-width: thin;
+        scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+      }
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: rgba(255, 255, 255, 0.15);
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgba(255, 255, 255, 0.3);
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-De7q8xoL.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BF-BwXlM.css">
+  </head>
+  <body>
+  </body>
+</html>
