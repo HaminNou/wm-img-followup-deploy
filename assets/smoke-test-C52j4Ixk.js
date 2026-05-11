@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill-B5Qt9EMX.js";import{b as c,i as p,c as m,a as u,H as n}from"./prolific-CInZbVkb.js";import{u as _,c as h}from"./debrief-BVW8-NFB.js";import{c as e}from"./config-DIVOXAZU.js";const f=new Date().toISOString().replace(/[:.]/g,"-"),t=`SMOKE_TEST_${f}`,s=5;async function g(){await c();const o=p({prolific_pid:t,study_id:"smoke_test",session_id:t,is_preview:!0},{is_pilot_run:!1,pilot_label:"smoke_test",source:"smoke-test"}),a=m({on_data_update:r=>{u(r).catch(i=>console.error("[smoke-test] storage write failed",i))}});window.jsPsych=a;const d={type:n,stimulus:`
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{b as c,i as p,c as m,a as u,H as n}from"./prolific-CzW6pvgT.js";import{u as _,c as h}from"./debrief-CCbcimHU.js";import{c as e}from"./config-ChtrjH38.js";const f=new Date().toISOString().replace(/[:.]/g,"-"),t=`SMOKE_TEST_${f}`,s=5;async function g(){await c();const o=p({prolific_pid:t,study_id:"smoke_test",session_id:t,is_preview:!0},{is_pilot_run:!1,pilot_label:"smoke_test",source:"smoke-test"}),a=m({on_data_update:r=>{u(r).catch(i=>console.error("[smoke-test] storage write failed",i))}});window.jsPsych=a;const d={type:n,stimulus:`
       <div style="max-width: 38rem; margin: 0 auto; text-align: left;">
         <h2 style="text-align: center;">DataPipe smoke test</h2>
         <p>This page verifies the production data-egress path end-to-end. It will:</p>
@@ -35,4 +35,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{b as c,i as p,c as m,a as u,
       <pre style="white-space: pre-wrap; font-size: 0.85rem;">${String(o?.stack??o)}</pre>
     </div>
   `});
-//# sourceMappingURL=smoke-test-9VFdpddX.js.map
+//# sourceMappingURL=smoke-test-C52j4Ixk.js.map
