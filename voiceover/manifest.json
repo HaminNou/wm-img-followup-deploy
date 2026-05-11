@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "model": "edge-tts",
+  "rate": "-15%",
+  "rendered_at": "2026-05-11T20:38:45.606Z",
+  "entries": {
+    "0772d6611a9a178421af06bb5fb78ff397e46400f393107df63f76c407b54315": {
+      "file": "0772d6611a9a178421af06bb5fb78ff397e46400f393107df63f76c407b54315.mp3",
+      "bytes": 129024,
+      "chars": 158,
+      "text_preview": "One quick reminder. Please make sure your audio volume is still at the level you set earlier. When you're ready, press …"
+    },
+    "08611a45b58649783925db2fa4eeb95fda8932994550a7ef5c47d1789a212036": {
+      "file": "08611a45b58649783925db2fa4eeb95fda8932994550a7ef5c47d1789a212036.mp3",
+      "bytes": 392544,
+      "chars": 434,
+      "text_preview": "After the 6 things, we will test your dot memory 3 times. Each time, a white dot will be shown for 3 seconds in some lo…"
+    },
+    "0cf0ed6417ae4b8865dd4f72570a1ef5328446cae6cb678a48e82244ed76a1bf": {
+      "file": "0cf0ed6417ae4b8865dd4f72570a1ef5328446cae6cb678a48e82244ed76a1bf.mp3",
+      "bytes": 309888,
+      "chars": 381,
+      "text_preview": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire tria…"
+    },
+    "1d697c7c1d29098a168f829c7e705065570365adf30bb430b472a5f6b9926e15": {
+      "file": "1d697c7c1d29098a168f829c7e705065570365adf30bb430b472a5f6b9926e15.mp3",
+      "bytes": 356256,
+      "chars": 426,
+      "text_preview": "Then 6 things will happen one at a time, all mixed together. 3 stars inside the circle — for each star, decide whether …"
+    },
+    "42ff601744f7e17afd52f02f088885a7c28ff0d31e7568b80793ea556d9ab287": {
+      "file": "42ff601744f7e17afd52f02f088885a7c28ff0d31e7568b80793ea556d9ab287.mp3",
+      "bytes": 380448,
+      "chars": 457,
+      "text_preview": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire tria…"
+    },
+    "4b645f71f4138540f2be2b3906436a42026e187b040dc4e5da851ee1640aab71": {
+      "file": "4b645f71f4138540f2be2b3906436a42026e187b040dc4e5da851ee1640aab71.mp3",
+      "bytes": 228096,
+      "chars": 279,
+      "text_preview": "After the 3 tones, we will play 3 more tones, one at a time. Each time, decide whether that tone was one of the ones yo…"
+    },
+    "5c7806d10aa73dbbe2f4ac8a95d825b362d1f13ce3f4f15b8cc060381cf379b4": {
+      "file": "5c7806d10aa73dbbe2f4ac8a95d825b362d1f13ce3f4f15b8cc060381cf379b4.mp3",
+      "bytes": 451872,
+      "chars": 559,
+      "text_preview": "A few more things to know. You will have 3 seconds for each star. Try to get it right rather than answer quickly, but p…"
+    },
+    "63a0e047ea0acebbe3fd708d03ca9f0c0ecec8b3cb68650ca3363f96e43806a5": {
+      "file": "63a0e047ea0acebbe3fd708d03ca9f0c0ecec8b3cb68650ca3363f96e43806a5.mp3",
+      "bytes": 264096,
+      "chars": 319,
+      "text_preview": "Welcome to Task 3. In this task, we will ask you to picture a pattern in your mind, and to keep that picture clear whil…"
+    },
+    "6dd06b9b4a4d2b7723f164d76f1a6d923101d7e33884eea8cbdfd5da480268c1": {
+      "file": "6dd06b9b4a4d2b7723f164d76f1a6d923101d7e33884eea8cbdfd5da480268c1.mp3",
+      "bytes": 194400,
+      "chars": 212,
+      "text_preview": "Welcome to Task 1. In this first task, you will see 3 dots appear one at a time at different locations inside a circle …"
+    },
+    "807e97c12b67278e34f2a9dc715c8cb6ff9ebb6f4c7188179af3002d1a38b3f4": {
+      "file": "807e97c12b67278e34f2a9dc715c8cb6ff9ebb6f4c7188179af3002d1a38b3f4.mp3",
+      "bytes": 282528,
+      "chars": 346,
+      "text_preview": "One last thing. If you answer in time, the dot can turn green if you were correct, or red if you were not. This colour …"
+    },
+    "910e6a68d3e5a6e542563d4516468ca5e77fbafe29f56b91da15f7cdb2ee951f": {
+      "file": "910e6a68d3e5a6e542563d4516468ca5e77fbafe29f56b91da15f7cdb2ee951f.mp3",
+      "bytes": 259200,
+      "chars": 332,
+      "text_preview": "Here are the responses. Press Yes if you heard this tone before. Press No if you did not. You will have 3 seconds to pr…"
+    },
+    "921789e4cd5c0ad473b2014a005fa09c5b01edea0ea37fb748e3ac53325466fc": {
+      "file": "921789e4cd5c0ad473b2014a005fa09c5b01edea0ea37fb748e3ac53325466fc.mp3",
+      "bytes": 224352,
+      "chars": 253,
+      "text_preview": "After the dots, we will test your memory 3 times. Each time, a white dot will be shown for 3 seconds, and you have to s…"
+    },
+    "a1ffb2938afe59acd27fefe4fe0960d84e54719a760f82d5239cf67c22ac0524": {
+      "file": "a1ffb2938afe59acd27fefe4fe0960d84e54719a760f82d5239cf67c22ac0524.mp3",
+      "bytes": 392832,
+      "chars": 458,
+      "text_preview": "Then 6 things will appear inside the circle one at a time, all mixed together. 3 stars — for each star, decide whether …"
+    },
+    "b0e109715c14c7db9cd042996a7758614a64f2c18ecdf780903dc970877d84c1": {
+      "file": "b0e109715c14c7db9cd042996a7758614a64f2c18ecdf780903dc970877d84c1.mp3",
+      "bytes": 174240,
+      "chars": 184,
+      "text_preview": "Now on to Task 2. This task works just like Task 1, but now you will hear sounds instead of seeing dots. You will hear …"
+    },
+    "b7e7808430ec7fabeded94ba6fc62326650ca2de71ef7d339a220d07f6d2fdc5": {
+      "file": "b7e7808430ec7fabeded94ba6fc62326650ca2de71ef7d339a220d07f6d2fdc5.mp3",
+      "bytes": 202176,
+      "chars": 242,
+      "text_preview": "Now for the responses. Press Yes if you remember you saw a dot in that location. Press No if you did not. You will have…"
+    },
+    "c7a7c3a4222b087f3a3456b47e1d5648eb481119350da1c2353c1728bb4f2a81": {
+      "file": "c7a7c3a4222b087f3a3456b47e1d5648eb481119350da1c2353c1728bb4f2a81.mp3",
+      "bytes": 220032,
+      "chars": 234,
+      "text_preview": "Now on to the last task, Task 5. This task combines Task 3, the pattern, with Task 2, the tones. Each trial begins with…"
+    },
+    "d5c4e684dbf1afb3943714d9339ac198f32d6eb19cf135e692d0b663f0ae06e3": {
+      "file": "d5c4e684dbf1afb3943714d9339ac198f32d6eb19cf135e692d0b663f0ae06e3.mp3",
+      "bytes": 205632,
+      "chars": 218,
+      "text_preview": "Now on to Task 4. This task combines Task 3, the pattern, with Task 1, the dots. Each trial begins with the arrow, whic…"
+    },
+    "e3587cb1fe9a50a0b3fb58a75deb4495948216507674a44e8c9f1c9f27326740": {
+      "file": "e3587cb1fe9a50a0b3fb58a75deb4495948216507674a44e8c9f1c9f27326740.mp3",
+      "bytes": 396000,
+      "chars": 493,
+      "text_preview": "After the 6 things, we will test your tone memory 3 times. Each time, a tone will be played, and you will have 3 second…"
+    },
+    "f3c2f0514e37195574bfd713f7d85ad25be2b67d6cdcdd2ce4ddd90a9f01a8fc": {
+      "file": "f3c2f0514e37195574bfd713f7d85ad25be2b67d6cdcdd2ce4ddd90a9f01a8fc.mp3",
+      "bytes": 222624,
+      "chars": 279,
+      "text_preview": "Then 3 bright stars will flash inside the circle, one at a time. For each star, decide whether it lands in a location t…"
+    },
+    "f4910717cf689e0960743c16aacd98dbb1330a3c1fa42c7e1ceb154aa444bc48": {
+      "file": "f4910717cf689e0960743c16aacd98dbb1330a3c1fa42c7e1ceb154aa444bc48.mp3",
+      "bytes": 188352,
+      "chars": 221,
+      "text_preview": "Here's how each trial starts. On each trial, an arrow will briefly appear. The arrow tells you to turn the pattern in y…"
+    }
+  }
+}

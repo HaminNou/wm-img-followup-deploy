@@ -1,0 +1,82 @@
+[
+  {
+    "text": "One quick reminder. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to start the practice for Task 2.",
+    "source": "memory.tOnlyInstructionNode.page3#0:script"
+  },
+  {
+    "text": "After the 6 things, we will test your dot memory 3 times. Each time, a white dot will be shown for 3 seconds in some location. Press Yes if a dot was presented here. Press No if no dot was presented here. You will have 3 seconds for each star and for each dot test. If you answer in time, the star or dot can turn green if you were correct, or red if you were not, while it is still on the screen, so you can learn from each response.",
+    "source": "dual.iDInstructionNode.page2#0:script"
+  },
+  {
+    "text": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the dot tests begin, and at that point you can drop the image and focus only on the dot tests. When you're ready, press Space to start the practice for Task 4.",
+    "source": "dual.iDInstructionNode.page3#0:script"
+  },
+  {
+    "text": "Then 6 things will happen one at a time, all mixed together. 3 stars inside the circle — for each star, decide whether it lands in a location that would be covered by the rotated pattern you are picturing. Press On-pattern if the star falls on your pictured pattern, or Not on-pattern if it does not. And 3 tones — try to remember each tone you hear, so you can answer the tone tests at the end of the trial, just like Task 2.",
+    "source": "dual.iTInstructionNode.page1#0:script"
+  },
+  {
+    "text": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the tone tests begin, and at that point you can drop the image and focus only on the tone tests. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to start the practice for Task 5.",
+    "source": "dual.iTInstructionNode.page3#0:script"
+  },
+  {
+    "text": "After the 3 tones, we will play 3 more tones, one at a time. Each time, decide whether that tone was one of the ones you just heard. You don't need to look at anything during this task — just keep your eyes on the centre of the circle, and listen for each tone whenever it plays.",
+    "source": "memory.tOnlyInstructionNode.page1#0:script"
+  },
+  {
+    "text": "A few more things to know. You will have 3 seconds for each star. Try to get it right rather than answer quickly, but please don't take too long either. If you answer in time, the star can turn green if you were correct, or red if you were not. This colour change happens while the star is still on the screen, so you can learn from each star. Be honest about what you actually see in your mind. If your picture is fuzzy, just do your best — there is no expectation of a perfect mental picture. When you're ready, press Space to start the practice for Task 3.",
+    "source": "imagery.iOnlyInstructionNode.page3#0:script"
+  },
+  {
+    "text": "Welcome to Task 3. In this task, we will ask you to picture a pattern in your mind, and to keep that picture clear while you respond. Important: you will see the pattern in the demonstration just before the practice — please pay close attention to it then, because the pattern will not be shown again during the trials.",
+    "source": "imagery.iOnlyInstructionNode.page0#0:script"
+  },
+  {
+    "text": "Welcome to Task 1. In this first task, you will see 3 dots appear one at a time at different locations inside a circle on the screen. Each dot is shown briefly. Try to remember which locations the dots appear in.",
+    "source": "memory.dOnlyInstructionNode.page0#0:script"
+  },
+  {
+    "text": "One last thing. If you answer in time, the dot can turn green if you were correct, or red if you were not. This colour change happens while the dot is still on the screen, so you can learn from each test. You will now do a short practice for this task before moving on to the next. When you're ready, press Space to start the practice for Task 1.",
+    "source": "memory.dOnlyInstructionNode.page3#0:script"
+  },
+  {
+    "text": "Here are the responses. Press Yes if you heard this tone before. Press No if you did not. You will have 3 seconds to provide your response. If you answer in time, the central question mark can change colour while it is still on the screen: it turns green if you were correct, or red if you were not, so you can learn from each test.",
+    "source": "memory.tOnlyInstructionNode.page2#0:script"
+  },
+  {
+    "text": "After the dots, we will test your memory 3 times. Each time, a white dot will be shown for 3 seconds, and you have to say whether the dot was shown in that location. Just keep watching the centre of the circle, and remember each dot whenever it appears.",
+    "source": "memory.dOnlyInstructionNode.page1#0:script"
+  },
+  {
+    "text": "Then 6 things will appear inside the circle one at a time, all mixed together. 3 stars — for each star, decide whether it lands in a location that would be covered by the rotated pattern you are picturing, just like Task 3. Press On-pattern if the star falls on your pictured pattern, or Not on-pattern if it does not. And 3 dots — try to remember which locations the dots appear in, so you can answer the dot tests at the end of the trial, just like Task 1.",
+    "source": "dual.iDInstructionNode.page1#0:script"
+  },
+  {
+    "text": "Now on to Task 2. This task works just like Task 1, but now you will hear sounds instead of seeing dots. You will hear 3 short tones, one at a time. Try to remember each tone you hear.",
+    "source": "memory.tOnlyInstructionNode.page0#0:script"
+  },
+  {
+    "text": "Now for the responses. Press Yes if you remember you saw a dot in that location. Press No if you did not. You will have 3 seconds to provide your response. Try to get it right rather than answer quickly, but please don't take too long either.",
+    "source": "memory.dOnlyInstructionNode.page2#0:script"
+  },
+  {
+    "text": "Now on to the last task, Task 5. This task combines Task 3, the pattern, with Task 2, the tones. Each trial begins with the arrow, which tells you to turn the pattern in your mind. Hold this turned pattern in mind for the whole trial.",
+    "source": "dual.iTInstructionNode.page0#0:script"
+  },
+  {
+    "text": "Now on to Task 4. This task combines Task 3, the pattern, with Task 1, the dots. Each trial begins with the arrow, which tells you to turn the pattern in your mind. Hold this turned pattern in mind for the whole trial.",
+    "source": "dual.iDInstructionNode.page0#0:script"
+  },
+  {
+    "text": "After the 6 things, we will test your tone memory 3 times. Each time, a tone will be played, and you will have 3 seconds to decide whether it was one of the tones you just heard. Press Yes if you heard this tone before. Press No if you did not. You will have 3 seconds for each star and for each tone test. If you answer in time, the star or central question mark can turn green if you were correct, or red if you were not, while it is still on the screen, so you can learn from each response.",
+    "source": "dual.iTInstructionNode.page2#0:script"
+  },
+  {
+    "text": "Then 3 bright stars will flash inside the circle, one at a time. For each star, decide whether it lands in a location that would be covered by the rotated pattern you are picturing. Press On-pattern if the star falls on your pictured pattern. Press Not on-pattern if it does not.",
+    "source": "imagery.iOnlyInstructionNode.page2#0:script"
+  },
+  {
+    "text": "Here's how each trial starts. On each trial, an arrow will briefly appear. The arrow tells you to turn the pattern in your mind in the direction it points, like rotating a piece of paper. Hold this turned pattern in mind.",
+    "source": "imagery.iOnlyInstructionNode.page1#0:script"
+  }
+]
