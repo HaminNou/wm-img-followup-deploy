@@ -3,8 +3,26 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "model": "edge-tts",
   "rate": "-15%",
-  "rendered_at": "2026-05-11T20:38:45.606Z",
+  "rendered_at": "2026-05-12T01:00:51.975Z",
   "entries": {
+    "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d": {
+      "file": "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d.mp3",
+      "bytes": 34272,
+      "chars": 30,
+      "text_preview": "Dot 1 — remember its location."
+    },
+    "04e4255cabe3ecc754c12a9b925777e71dcaa1130206d1bcfe93a3564c4ab0c2": {
+      "file": "04e4255cabe3ecc754c12a9b925777e71dcaa1130206d1bcfe93a3564c4ab0c2.mp3",
+      "bytes": 29088,
+      "chars": 35,
+      "text_preview": "Hold the dots in mind for a moment."
+    },
+    "05cba739b39444607186ee52f4b8e6208933e9e781a0182ca8e43f1ce622015d": {
+      "file": "05cba739b39444607186ee52f4b8e6208933e9e781a0182ca8e43f1ce622015d.mp3",
+      "bytes": 79200,
+      "chars": 83,
+      "text_preview": "We chose Yes — that was incorrect; the correct answer was No, so the dot turns red."
+    },
     "0772d6611a9a178421af06bb5fb78ff397e46400f393107df63f76c407b54315": {
       "file": "0772d6611a9a178421af06bb5fb78ff397e46400f393107df63f76c407b54315.mp3",
       "bytes": 129024,
@@ -17,11 +35,41 @@
       "chars": 434,
       "text_preview": "After the 6 things, we will test your dot memory 3 times. Each time, a white dot will be shown for 3 seconds in some lo…"
     },
+    "0cc3f9da1bdacf867c5a88028c3e86e52102506177d794b8cc7ef9e53feec1ad": {
+      "file": "0cc3f9da1bdacf867c5a88028c3e86e52102506177d794b8cc7ef9e53feec1ad.mp3",
+      "bytes": 43488,
+      "chars": 36,
+      "text_preview": "Dot 2 — keep tracking each location."
+    },
     "0cf0ed6417ae4b8865dd4f72570a1ef5328446cae6cb678a48e82244ed76a1bf": {
       "file": "0cf0ed6417ae4b8865dd4f72570a1ef5328446cae6cb678a48e82244ed76a1bf.mp3",
       "bytes": 309888,
       "chars": 381,
       "text_preview": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire tria…"
+    },
+    "0ebc015d757bfeb0b23a29a4506b45d951e21da7aa7ccaa76a3a3bd1af2b9155": {
+      "file": "0ebc015d757bfeb0b23a29a4506b45d951e21da7aa7ccaa76a3a3bd1af2b9155.mp3",
+      "bytes": 110592,
+      "chars": 132,
+      "text_preview": "Hold a credit card against your screen. Use the slider to resize the rectangle below until it exactly matches the width…"
+    },
+    "13f752de25604005f6c6cf2ccb673fd16ae9d55f1b66d5cb224d03551ce684d7": {
+      "file": "13f752de25604005f6c6cf2ccb673fd16ae9d55f1b66d5cb224d03551ce684d7.mp3",
+      "bytes": 40032,
+      "chars": 46,
+      "text_preview": "Star 2 — judge it against your turned pattern."
+    },
+    "1aab2d9e79c6369bd88016c28a6039d805b84a79e54d07f1c36e1779e7fb8aac": {
+      "file": "1aab2d9e79c6369bd88016c28a6039d805b84a79e54d07f1c36e1779e7fb8aac.mp3",
+      "bytes": 132768,
+      "chars": 117,
+      "text_preview": "Last block. 60 more trials, same controls, with 60-second rests after trials 20 and 40. Press Space to begin Block 2."
+    },
+    "1bc3a2b6bd5bdd47b8a854d41000eace133cfdf699784e694b19ce1b5d40fc7c": {
+      "file": "1bc3a2b6bd5bdd47b8a854d41000eace133cfdf699784e694b19ce1b5d40fc7c.mp3",
+      "bytes": 54432,
+      "chars": 50,
+      "text_preview": "Dot test 2 of 3: was a dot shown in this location?"
     },
     "1d697c7c1d29098a168f829c7e705065570365adf30bb430b472a5f6b9926e15": {
       "file": "1d697c7c1d29098a168f829c7e705065570365adf30bb430b472a5f6b9926e15.mp3",
@@ -29,17 +77,131 @@
       "chars": 426,
       "text_preview": "Then 6 things will happen one at a time, all mixed together. 3 stars inside the circle — for each star, decide whether …"
     },
+    "1f376b9f0d38737d813983e920e2ab7133aef3277c9a03650f46dec6e83abe90": {
+      "file": "1f376b9f0d38737d813983e920e2ab7133aef3277c9a03650f46dec6e83abe90.mp3",
+      "bytes": 94176,
+      "chars": 108,
+      "text_preview": "When the question mark appears, the tone tests begin. You may let the picture go now and focus on the tones."
+    },
+    "22a17f592758c5620d80e26ebca34ba1cbb1dc942a1dd14af7e0960e99d88d44": {
+      "file": "22a17f592758c5620d80e26ebca34ba1cbb1dc942a1dd14af7e0960e99d88d44.mp3",
+      "bytes": 66240,
+      "chars": 77,
+      "text_preview": "Watch as dots appear one at a time. Try to remember the location of each dot."
+    },
+    "23163778a1d5cf364483c6137a9c40f2dfa0ed93f9eb1a611076b0e084dc1cf4": {
+      "file": "23163778a1d5cf364483c6137a9c40f2dfa0ed93f9eb1a611076b0e084dc1cf4.mp3",
+      "bytes": 68256,
+      "chars": 79,
+      "text_preview": "We chose Not on-pattern — that was the correct answer, so the star turns green."
+    },
+    "26d6138bd26e3476fe2d2a4ea20f89400fa34f13d4daebaa7cdc4503ae96185f": {
+      "file": "26d6138bd26e3476fe2d2a4ea20f89400fa34f13d4daebaa7cdc4503ae96185f.mp3",
+      "bytes": 38592,
+      "chars": 32,
+      "text_preview": "Tone 1 — listen and remember it."
+    },
+    "27b7c3161288af3c649de3e18be6da0a6f8badec1801d7fa1d8d4d462bde9ad8": {
+      "file": "27b7c3161288af3c649de3e18be6da0a6f8badec1801d7fa1d8d4d462bde9ad8.mp3",
+      "bytes": 136512,
+      "chars": 146,
+      "text_preview": "Now keep picturing the turned pattern. 3 stars will appear inside the circle. For each star, decide whether it falls on…"
+    },
+    "294854e33a75d545055a928f7768c55a782da681c19121f4c561122c5cd56422": {
+      "file": "294854e33a75d545055a928f7768c55a782da681c19121f4c561122c5cd56422.mp3",
+      "bytes": 109152,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by -60°)."
+    },
+    "2a845f62eaeb0565d2df47e4159c38028181041fc3e8a4fa91a240b18eeb6eb8": {
+      "file": "2a845f62eaeb0565d2df47e4159c38028181041fc3e8a4fa91a240b18eeb6eb8.mp3",
+      "bytes": 38880,
+      "chars": 32,
+      "text_preview": "Tone 2 — listen and remember it."
+    },
+    "356570fb448f87bf38d1e7e949fa871c220aa14c87b0425af93ccf6ee17039cb": {
+      "file": "356570fb448f87bf38d1e7e949fa871c220aa14c87b0425af93ccf6ee17039cb.mp3",
+      "bytes": 63648,
+      "chars": 76,
+      "text_preview": "We chose No — that was the correct answer, so the question mark turns green."
+    },
+    "39d6215ac3f41610f5e1fde5635d6624a700740bc6f02745c6efafa4f58ca45c": {
+      "file": "39d6215ac3f41610f5e1fde5635d6624a700740bc6f02745c6efafa4f58ca45c.mp3",
+      "bytes": 101376,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by -30°)."
+    },
+    "4132f56467ff77efbdb6fc9c4465f701583c90264f8ab9009392f1928a77d7b8": {
+      "file": "4132f56467ff77efbdb6fc9c4465f701583c90264f8ab9009392f1928a77d7b8.mp3",
+      "bytes": 55296,
+      "chars": 63,
+      "text_preview": "Tone test 3 of 3: was this tone one of the ones you just heard?"
+    },
     "42ff601744f7e17afd52f02f088885a7c28ff0d31e7568b80793ea556d9ab287": {
       "file": "42ff601744f7e17afd52f02f088885a7c28ff0d31e7568b80793ea556d9ab287.mp3",
       "bytes": 380448,
       "chars": 457,
       "text_preview": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire tria…"
     },
+    "449bc0b3276e689087b6e6726e2314f9bc4735250a4480157464692467ccf397": {
+      "file": "449bc0b3276e689087b6e6726e2314f9bc4735250a4480157464692467ccf397.mp3",
+      "bytes": 47232,
+      "chars": 58,
+      "text_preview": "Test 1 of 3: was this tone one of the ones you just heard?"
+    },
+    "44e245d39f9d17ec8e53fbfc65921e35c429f4dc5ecdfeb5fd791fa0b54a9e93": {
+      "file": "44e245d39f9d17ec8e53fbfc65921e35c429f4dc5ecdfeb5fd791fa0b54a9e93.mp3",
+      "bytes": 310752,
+      "chars": 314,
+      "text_preview": "Now the main task begins. There are two blocks of 60 trials. Each block includes a 60-second rest after trials 20 and 4…"
+    },
+    "4a11f383a906320cf98d5f19123a776f86afc6366bd759e45c69be610eb5291d": {
+      "file": "4a11f383a906320cf98d5f19123a776f86afc6366bd759e45c69be610eb5291d.mp3",
+      "bytes": 36864,
+      "chars": 30,
+      "text_preview": "Dot 2 — remember its location."
+    },
     "4b645f71f4138540f2be2b3906436a42026e187b040dc4e5da851ee1640aab71": {
       "file": "4b645f71f4138540f2be2b3906436a42026e187b040dc4e5da851ee1640aab71.mp3",
       "bytes": 228096,
       "chars": 279,
       "text_preview": "After the 3 tones, we will play 3 more tones, one at a time. Each time, decide whether that tone was one of the ones yo…"
+    },
+    "4ccf3e00dbcc4c3adf09001b7cf6331e3b158f0de5415be4db7a08f9faf26021": {
+      "file": "4ccf3e00dbcc4c3adf09001b7cf6331e3b158f0de5415be4db7a08f9faf26021.mp3",
+      "bytes": 85536,
+      "chars": 93,
+      "text_preview": "We chose Yes — that was incorrect; the correct answer was No, so the question mark turns red."
+    },
+    "4f4008cdeb55fc28df74308f34b9d1f3a93bbedf1f53b20e09d1443a7ffbcb04": {
+      "file": "4f4008cdeb55fc28df74308f34b9d1f3a93bbedf1f53b20e09d1443a7ffbcb04.mp3",
+      "bytes": 46656,
+      "chars": 51,
+      "text_preview": "Star 2 of 3 — judge it against your turned pattern."
+    },
+    "506731ad8b316d13eb58d9a61179ff162166ffe7ab74f8f9d86b4d2e4f18c2b1": {
+      "file": "506731ad8b316d13eb58d9a61179ff162166ffe7ab74f8f9d86b4d2e4f18c2b1.mp3",
+      "bytes": 68832,
+      "chars": 86,
+      "text_preview": "That was the last demonstration. Press Space when you are ready to start the practice."
+    },
+    "54b966fa07f72dd2fb7d0c030eb148d24479d6575370f560013bdc484904bf50": {
+      "file": "54b966fa07f72dd2fb7d0c030eb148d24479d6575370f560013bdc484904bf50.mp3",
+      "bytes": 594144,
+      "chars": 652,
+      "text_preview": "Next, let's set up your hands. Throughout the study you will respond with the two horizontal arrow keys on your keyboar…"
+    },
+    "5525b2cae8e262d262b16dec38cd3dde2015ff196bbd0d36aa260f3b1223573a": {
+      "file": "5525b2cae8e262d262b16dec38cd3dde2015ff196bbd0d36aa260f3b1223573a.mp3",
+      "bytes": 37440,
+      "chars": 30,
+      "text_preview": "Dot 3 — remember its location."
+    },
+    "5987cf3a1c7a6a3d1c7183145c33571ef61c93e0747d4feedfc110870a203917": {
+      "file": "5987cf3a1c7a6a3d1c7183145c33571ef61c93e0747d4feedfc110870a203917.mp3",
+      "bytes": 59904,
+      "chars": 66,
+      "text_preview": "We chose No — that was the correct answer, so the dot turns green."
     },
     "5c7806d10aa73dbbe2f4ac8a95d825b362d1f13ce3f4f15b8cc060381cf379b4": {
       "file": "5c7806d10aa73dbbe2f4ac8a95d825b362d1f13ce3f4f15b8cc060381cf379b4.mp3",
@@ -53,11 +215,47 @@
       "chars": 319,
       "text_preview": "Welcome to Task 3. In this task, we will ask you to picture a pattern in your mind, and to keep that picture clear whil…"
     },
+    "63a6c58716e9b49ed7ccb999f18e2db341e6c4e2f3a8df8ea6d689eb7b44ef13": {
+      "file": "63a6c58716e9b49ed7ccb999f18e2db341e6c4e2f3a8df8ea6d689eb7b44ef13.mp3",
+      "bytes": 48672,
+      "chars": 54,
+      "text_preview": "Press both arrow keys ← and → to start the next trial."
+    },
+    "687c381ec83631e7a8d93a15872ded0b54d1f65731028f895d31e677725202cc": {
+      "file": "687c381ec83631e7a8d93a15872ded0b54d1f65731028f895d31e677725202cc.mp3",
+      "bytes": 50400,
+      "chars": 60,
+      "text_preview": "Take a short break. The next block will start automatically."
+    },
+    "6d1debc0a12b6c939dd54183fa2658561315a3907ffa6bc151b793180db16808": {
+      "file": "6d1debc0a12b6c939dd54183fa2658561315a3907ffa6bc151b793180db16808.mp3",
+      "bytes": 53568,
+      "chars": 63,
+      "text_preview": "Tone test 1 of 3: was this tone one of the ones you just heard?"
+    },
     "6dd06b9b4a4d2b7723f164d76f1a6d923101d7e33884eea8cbdfd5da480268c1": {
       "file": "6dd06b9b4a4d2b7723f164d76f1a6d923101d7e33884eea8cbdfd5da480268c1.mp3",
       "bytes": 194400,
       "chars": 212,
       "text_preview": "Welcome to Task 1. In this first task, you will see 3 dots appear one at a time at different locations inside a circle …"
+    },
+    "77c414fffa8682ff76157e19de8b750cee79d024547ba20f1b0aea3ba376f6b2": {
+      "file": "77c414fffa8682ff76157e19de8b750cee79d024547ba20f1b0aea3ba376f6b2.mp3",
+      "bytes": 105984,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by -45°)."
+    },
+    "7be37dea2ca861ad75199250af742ffd8035f846a001f7af102c7a842df25a8a": {
+      "file": "7be37dea2ca861ad75199250af742ffd8035f846a001f7af102c7a842df25a8a.mp3",
+      "bytes": 108000,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by -90°)."
+    },
+    "7e47966651353e0b270804ae92778c783dba32de02b04fb2b20b8d4250ca18b3": {
+      "file": "7e47966651353e0b270804ae92778c783dba32de02b04fb2b20b8d4250ca18b3.mp3",
+      "bytes": 64512,
+      "chars": 77,
+      "text_preview": "We chose Yes — that was the correct answer, so the question mark turns green."
     },
     "807e97c12b67278e34f2a9dc715c8cb6ff9ebb6f4c7188179af3002d1a38b3f4": {
       "file": "807e97c12b67278e34f2a9dc715c8cb6ff9ebb6f4c7188179af3002d1a38b3f4.mp3",
@@ -65,11 +263,53 @@
       "chars": 346,
       "text_preview": "One last thing. If you answer in time, the dot can turn green if you were correct, or red if you were not. This colour …"
     },
+    "8110f799240fb3326ae46986a676ee72ed343887a80f44d59a2be08433b2c63e": {
+      "file": "8110f799240fb3326ae46986a676ee72ed343887a80f44d59a2be08433b2c63e.mp3",
+      "bytes": 44928,
+      "chars": 36,
+      "text_preview": "Dot 3 — keep tracking each location."
+    },
+    "87ebb2c8eda6c4a14dba0c988826cd866e223ab58bd236628c67f73437df3d14": {
+      "file": "87ebb2c8eda6c4a14dba0c988826cd866e223ab58bd236628c67f73437df3d14.mp3",
+      "bytes": 31680,
+      "chars": 35,
+      "text_preview": "Listen as tones play one at a time."
+    },
+    "87fdebe703b606df40d56b4469665fa3e758ed1b57cd04ae58e75395e120920f": {
+      "file": "87fdebe703b606df40d56b4469665fa3e758ed1b57cd04ae58e75395e120920f.mp3",
+      "bytes": 94176,
+      "chars": 106,
+      "text_preview": "When the question mark appears, the dot tests begin. You may let the picture go now and focus on the dots."
+    },
+    "8ad3c815e7915ad5d0a34216f737d29290040c6edba1a0e72c81b14bcc5ae29f": {
+      "file": "8ad3c815e7915ad5d0a34216f737d29290040c6edba1a0e72c81b14bcc5ae29f.mp3",
+      "bytes": 155808,
+      "chars": 159,
+      "text_preview": "Now keep picturing the turned pattern. 6 things appear inside the circle, mixed together: 3 dots to remember, 3 stars t…"
+    },
+    "8c7c7b2bd380f75f860e3e0a92efd037086ca0846fbf8cbaed3d24e5da2859d4": {
+      "file": "8c7c7b2bd380f75f860e3e0a92efd037086ca0846fbf8cbaed3d24e5da2859d4.mp3",
+      "bytes": 89280,
+      "chars": 93,
+      "text_preview": "We chose No — that was incorrect; the correct answer was Yes, so the question mark turns red."
+    },
+    "8e2d25a24c200a4fd78c5e2c09b1b3ae19370958c55001ed11c8d8aedd7e378a": {
+      "file": "8e2d25a24c200a4fd78c5e2c09b1b3ae19370958c55001ed11c8d8aedd7e378a.mp3",
+      "bytes": 95904,
+      "chars": 103,
+      "text_preview": "We chose On-pattern — that was incorrect; the correct answer was Not on-pattern, so the star turns red."
+    },
     "910e6a68d3e5a6e542563d4516468ca5e77fbafe29f56b91da15f7cdb2ee951f": {
       "file": "910e6a68d3e5a6e542563d4516468ca5e77fbafe29f56b91da15f7cdb2ee951f.mp3",
       "bytes": 259200,
       "chars": 332,
       "text_preview": "Here are the responses. Press Yes if you heard this tone before. Press No if you did not. You will have 3 seconds to pr…"
+    },
+    "9140c12faf41aa7b13c566b28161f1307fd0427bb2e85487be69784475fad302": {
+      "file": "9140c12faf41aa7b13c566b28161f1307fd0427bb2e85487be69784475fad302.mp3",
+      "bytes": 157536,
+      "chars": 203,
+      "text_preview": "Would you like to watch the demonstration again? (you can watch up to 2 more times) Press Yes (or click the button belo…"
     },
     "921789e4cd5c0ad473b2014a005fa09c5b01edea0ea37fb748e3ac53325466fc": {
       "file": "921789e4cd5c0ad473b2014a005fa09c5b01edea0ea37fb748e3ac53325466fc.mp3",
@@ -77,11 +317,107 @@
       "chars": 253,
       "text_preview": "After the dots, we will test your memory 3 times. Each time, a white dot will be shown for 3 seconds, and you have to s…"
     },
+    "92e9e188dbba4e111211b4da65ee28e3f29ef735c046068d59f9372ab4ce5422": {
+      "file": "92e9e188dbba4e111211b4da65ee28e3f29ef735c046068d59f9372ab4ce5422.mp3",
+      "bytes": 621504,
+      "chars": 771,
+      "text_preview": "Before we begin the tasks, let's get you set up. This study works best when you are seated comfortably and stay in roug…"
+    },
+    "94824572e43f42200b9e6b3330681f10f89f2d8c1a4923f140da59f2d1791c49": {
+      "file": "94824572e43f42200b9e6b3330681f10f89f2d8c1a4923f140da59f2d1791c49.mp3",
+      "bytes": 57600,
+      "chars": 59,
+      "text_preview": "Take a one-minute rest. The task will resume automatically."
+    },
+    "96308e7e0005c5b741620c9afdbf95254bb2cf457d00b774c315e04b87430f34": {
+      "file": "96308e7e0005c5b741620c9afdbf95254bb2cf457d00b774c315e04b87430f34.mp3",
+      "bytes": 107424,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by +15°)."
+    },
+    "9631293e8c9b72b10a4a412fa137e649be09c82594fe036dcf0ab1049badd88e": {
+      "file": "9631293e8c9b72b10a4a412fa137e649be09c82594fe036dcf0ab1049badd88e.mp3",
+      "bytes": 93888,
+      "chars": 103,
+      "text_preview": "We chose Not on-pattern — that was incorrect; the correct answer was On-pattern, so the star turns red."
+    },
+    "9b359ec525875639cce84e940cbf58d50cda1abc7f2c6f89c42c6780b8bbbd29": {
+      "file": "9b359ec525875639cce84e940cbf58d50cda1abc7f2c6f89c42c6780b8bbbd29.mp3",
+      "bytes": 27648,
+      "chars": 28,
+      "text_preview": "Replaying the demonstration…"
+    },
+    "9c5d763b385bc57153a838e0cf3ee5623eca445d6b8bd6294e540aab365747cd": {
+      "file": "9c5d763b385bc57153a838e0cf3ee5623eca445d6b8bd6294e540aab365747cd.mp3",
+      "bytes": 41184,
+      "chars": 38,
+      "text_preview": "Tone 3 — keep listening for each tone."
+    },
+    "9d8f869e98787cb0a8a41eac8d9e9d3953eec6677b35ef247354b1a857fe63c9": {
+      "file": "9d8f869e98787cb0a8a41eac8d9e9d3953eec6677b35ef247354b1a857fe63c9.mp3",
+      "bytes": 112320,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by +90°)."
+    },
+    "9e7ca38febc1d43560621eedae64908945a394d1e7c484b851659423b5858ffa": {
+      "file": "9e7ca38febc1d43560621eedae64908945a394d1e7c484b851659423b5858ffa.mp3",
+      "bytes": 81792,
+      "chars": 83,
+      "text_preview": "We chose No — that was incorrect; the correct answer was Yes, so the dot turns red."
+    },
+    "a10481fbbca5d782fb683049a7628118d15bf7a90e87d573c438f5c89deb76b4": {
+      "file": "a10481fbbca5d782fb683049a7628118d15bf7a90e87d573c438f5c89deb76b4.mp3",
+      "bytes": 58464,
+      "chars": 63,
+      "text_preview": "Tone test 2 of 3: was this tone one of the ones you just heard?"
+    },
+    "a18e74383c00bece57f03bd9b5b883a60d48aa160c24885b5fd46c055b84ae71": {
+      "file": "a18e74383c00bece57f03bd9b5b883a60d48aa160c24885b5fd46c055b84ae71.mp3",
+      "bytes": 107712,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by +45°)."
+    },
     "a1ffb2938afe59acd27fefe4fe0960d84e54719a760f82d5239cf67c22ac0524": {
       "file": "a1ffb2938afe59acd27fefe4fe0960d84e54719a760f82d5239cf67c22ac0524.mp3",
       "bytes": 392832,
       "chars": 458,
       "text_preview": "Then 6 things will appear inside the circle one at a time, all mixed together. 3 stars — for each star, decide whether …"
+    },
+    "a25e1cbe65ed41e0a137dd021ddf8d938f9b22657d6886b21222e75f0529806b": {
+      "file": "a25e1cbe65ed41e0a137dd021ddf8d938f9b22657d6886b21222e75f0529806b.mp3",
+      "bytes": 108576,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by +60°)."
+    },
+    "ab4d2c8a7075b1bde8195afd2d1d6995d4e4956e3fd16c316a891d995a3c3855": {
+      "file": "ab4d2c8a7075b1bde8195afd2d1d6995d4e4956e3fd16c316a891d995a3c3855.mp3",
+      "bytes": 51840,
+      "chars": 51,
+      "text_preview": "Star 3 of 3 — judge it against your turned pattern."
+    },
+    "ad67828de03f3475aabbc8f0276bec2e96296515bf1db2d0b101df4ec15c012a": {
+      "file": "ad67828de03f3475aabbc8f0276bec2e96296515bf1db2d0b101df4ec15c012a.mp3",
+      "bytes": 53568,
+      "chars": 58,
+      "text_preview": "Test 3 of 3: was this tone one of the ones you just heard?"
+    },
+    "ad76b4da13c450db3e0682ad3d544116f4932ebdc5eb18fea480baaca87451da": {
+      "file": "ad76b4da13c450db3e0682ad3d544116f4932ebdc5eb18fea480baaca87451da.mp3",
+      "bytes": 42336,
+      "chars": 36,
+      "text_preview": "Dot 1 — keep tracking each location."
+    },
+    "adc6e856f15ac08f464c1b1cb41dd7eb3d5bcef585d9a4e6506180f16f302132": {
+      "file": "adc6e856f15ac08f464c1b1cb41dd7eb3d5bcef585d9a4e6506180f16f302132.mp3",
+      "bytes": 347904,
+      "chars": 417,
+      "text_preview": "Open your computer's volume control (in the system toolbar or settings) and set the master volume to roughly the middle…"
+    },
+    "b034ccd8c17e5a8ef0781dbb1416d15f09c7f43033239bbddd49aa4192813af5": {
+      "file": "b034ccd8c17e5a8ef0781dbb1416d15f09c7f43033239bbddd49aa4192813af5.mp3",
+      "bytes": 68544,
+      "chars": 59,
+      "text_preview": "Step 1 of 3 — Here is the pattern. Picture it in your mind."
     },
     "b0e109715c14c7db9cd042996a7758614a64f2c18ecdf780903dc970877d84c1": {
       "file": "b0e109715c14c7db9cd042996a7758614a64f2c18ecdf780903dc970877d84c1.mp3",
@@ -89,11 +425,59 @@
       "chars": 184,
       "text_preview": "Now on to Task 2. This task works just like Task 1, but now you will hear sounds instead of seeing dots. You will hear …"
     },
+    "b5a2dcd47619c5167de5c9bddb6c1c5bdedfe9bb86181252549ffdbac1492573": {
+      "file": "b5a2dcd47619c5167de5c9bddb6c1c5bdedfe9bb86181252549ffdbac1492573.mp3",
+      "bytes": 56448,
+      "chars": 50,
+      "text_preview": "Dot test 3 of 3: was a dot shown in this location?"
+    },
+    "b5cc6e18924422c7e091bd8d0e65c013bfe0434f90a3f89cf29ca29ea02caa88": {
+      "file": "b5cc6e18924422c7e091bd8d0e65c013bfe0434f90a3f89cf29ca29ea02caa88.mp3",
+      "bytes": 55296,
+      "chars": 50,
+      "text_preview": "Dot test 1 of 3: was a dot shown in this location?"
+    },
     "b7e7808430ec7fabeded94ba6fc62326650ca2de71ef7d339a220d07f6d2fdc5": {
       "file": "b7e7808430ec7fabeded94ba6fc62326650ca2de71ef7d339a220d07f6d2fdc5.mp3",
       "bytes": 202176,
       "chars": 242,
       "text_preview": "Now for the responses. Press Yes if you remember you saw a dot in that location. Press No if you did not. You will have…"
+    },
+    "b9d50991cd7d959dcd21e444a752088155a6d5c2ff9915c8adb9b84077b6ac7f": {
+      "file": "b9d50991cd7d959dcd21e444a752088155a6d5c2ff9915c8adb9b84077b6ac7f.mp3",
+      "bytes": 38304,
+      "chars": 46,
+      "text_preview": "Star 1 — judge it against your turned pattern."
+    },
+    "bb50f0dd25ec77405d09c2559403f0026344896c42dd591406d4ca11a438e120": {
+      "file": "bb50f0dd25ec77405d09c2559403f0026344896c42dd591406d4ca11a438e120.mp3",
+      "bytes": 92736,
+      "chars": 96,
+      "text_preview": "Step 3 of 3 — This is how your rotated mental image should look. Hold this picture in your mind."
+    },
+    "bca8a61ef706685f2f00de0b0db6945afdb6d813bbb8b86e5d98900e3f4f571f": {
+      "file": "bca8a61ef706685f2f00de0b0db6945afdb6d813bbb8b86e5d98900e3f4f571f.mp3",
+      "bytes": 104832,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by -15°)."
+    },
+    "be7cee40994fd413394c2a757bce087ae302e98ae37655520793a44fdb581d85": {
+      "file": "be7cee40994fd413394c2a757bce087ae302e98ae37655520793a44fdb581d85.mp3",
+      "bytes": 46368,
+      "chars": 51,
+      "text_preview": "Star 1 of 3 — judge it against your turned pattern."
+    },
+    "c051c014bc4d3710dfe7027b0dd5d826d609846cc168a05dc222dbe6f579798e": {
+      "file": "c051c014bc4d3710dfe7027b0dd5d826d609846cc168a05dc222dbe6f579798e.mp3",
+      "bytes": 36000,
+      "chars": 38,
+      "text_preview": "Last tone — keep remembering each one."
+    },
+    "c4d5a98aa2c26ca29492322f1bbcd24ac852971925eac678a4c175ecfc172455": {
+      "file": "c4d5a98aa2c26ca29492322f1bbcd24ac852971925eac678a4c175ecfc172455.mp3",
+      "bytes": 40896,
+      "chars": 33,
+      "text_preview": "Last dot — remember its location."
     },
     "c7a7c3a4222b087f3a3456b47e1d5648eb481119350da1c2353c1728bb4f2a81": {
       "file": "c7a7c3a4222b087f3a3456b47e1d5648eb481119350da1c2353c1728bb4f2a81.mp3",
@@ -101,17 +485,125 @@
       "chars": 234,
       "text_preview": "Now on to the last task, Task 5. This task combines Task 3, the pattern, with Task 2, the tones. Each trial begins with…"
     },
+    "cac81da3c6278fa8287b369772653ba6be81d30bd28ba9cb22d44c2f05048ab9": {
+      "file": "cac81da3c6278fa8287b369772653ba6be81d30bd28ba9cb22d44c2f05048ab9.mp3",
+      "bytes": 54432,
+      "chars": 51,
+      "text_preview": "Test 3 of 3: was a dot just shown in this location?"
+    },
+    "cb2be856940c147bade737b1a753d406ab00d6cca00f67994a0489c35a293869": {
+      "file": "cb2be856940c147bade737b1a753d406ab00d6cca00f67994a0489c35a293869.mp3",
+      "bytes": 52416,
+      "chars": 51,
+      "text_preview": "Test 1 of 3: was a dot just shown in this location?"
+    },
+    "cc4d9b078e193178b47e8a856865d3c77e51abbadd5ac9318d21a7457d9fd681": {
+      "file": "cc4d9b078e193178b47e8a856865d3c77e51abbadd5ac9318d21a7457d9fd681.mp3",
+      "bytes": 42624,
+      "chars": 32,
+      "text_preview": "Tone 3 — listen and remember it."
+    },
+    "cd5d394f98fc5bc14a410e4a76d74db6b1d776e9f068f4467765af1ca84f4276": {
+      "file": "cd5d394f98fc5bc14a410e4a76d74db6b1d776e9f068f4467765af1ca84f4276.mp3",
+      "bytes": 114336,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by +30°)."
+    },
+    "d183319214f3c8e90388aabf18b550654f80341949b386a30ec21bb86a493552": {
+      "file": "d183319214f3c8e90388aabf18b550654f80341949b386a30ec21bb86a493552.mp3",
+      "bytes": 113760,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by +75°)."
+    },
     "d5c4e684dbf1afb3943714d9339ac198f32d6eb19cf135e692d0b663f0ae06e3": {
       "file": "d5c4e684dbf1afb3943714d9339ac198f32d6eb19cf135e692d0b663f0ae06e3.mp3",
       "bytes": 205632,
       "chars": 218,
       "text_preview": "Now on to Task 4. This task combines Task 3, the pattern, with Task 1, the dots. Each trial begins with the arrow, whic…"
     },
+    "d7181f079fa8fc2fa453a92e6ef522d1d8d4205852a7651c7f5f0b6c5c46ebfd": {
+      "file": "d7181f079fa8fc2fa453a92e6ef522d1d8d4205852a7651c7f5f0b6c5c46ebfd.mp3",
+      "bytes": 257184,
+      "chars": 339,
+      "text_preview": "Your previous setting was outside the range we can use. Please make sure you have an actual credit card in hand. On the…"
+    },
+    "da13b02d16013411a71756d8c0f2a7cb888d9fb6dd4f627c626126bb27a82814": {
+      "file": "da13b02d16013411a71756d8c0f2a7cb888d9fb6dd4f627c626126bb27a82814.mp3",
+      "bytes": 41760,
+      "chars": 46,
+      "text_preview": "Star 3 — judge it against your turned pattern."
+    },
+    "da92b1022f197fe7d45e3a9ab3429d96282c6aadc8bc357d23a21ec392d70724": {
+      "file": "da92b1022f197fe7d45e3a9ab3429d96282c6aadc8bc357d23a21ec392d70724.mp3",
+      "bytes": 109728,
+      "chars": 92,
+      "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by -75°)."
+    },
+    "dd03a84f2c1b9d8fd7760bd6cc8549c188f45cad8a1f2830398ff4c10e0582e3": {
+      "file": "dd03a84f2c1b9d8fd7760bd6cc8549c188f45cad8a1f2830398ff4c10e0582e3.mp3",
+      "bytes": 166176,
+      "chars": 210,
+      "text_preview": "Would you like to watch the demonstration again? (this is the last replay you can request) Press Yes (or click the butt…"
+    },
+    "df0bb1ef1db16f5d5483c36bc4ea485dc7ba72d173149878dbf1c7e54ebda810": {
+      "file": "df0bb1ef1db16f5d5483c36bc4ea485dc7ba72d173149878dbf1c7e54ebda810.mp3",
+      "bytes": 41184,
+      "chars": 39,
+      "text_preview": "Tone 1 — listen and try to remember it."
+    },
+    "e0d23d24dbc7337e2e92f1ee1455b3ed8970b1c5d9ce87fa8855a34bc14dab11": {
+      "file": "e0d23d24dbc7337e2e92f1ee1455b3ed8970b1c5d9ce87fa8855a34bc14dab11.mp3",
+      "bytes": 66816,
+      "chars": 75,
+      "text_preview": "We chose On-pattern — that was the correct answer, so the star turns green."
+    },
     "e3587cb1fe9a50a0b3fb58a75deb4495948216507674a44e8c9f1c9f27326740": {
       "file": "e3587cb1fe9a50a0b3fb58a75deb4495948216507674a44e8c9f1c9f27326740.mp3",
       "bytes": 396000,
       "chars": 493,
       "text_preview": "After the 6 things, we will test your tone memory 3 times. Each time, a tone will be played, and you will have 3 second…"
+    },
+    "e43db7fa421b1990ac5977ec62ad2f24b8d0796f2c3c7ebaa58c49c863ea6f69": {
+      "file": "e43db7fa421b1990ac5977ec62ad2f24b8d0796f2c3c7ebaa58c49c863ea6f69.mp3",
+      "bytes": 40608,
+      "chars": 53,
+      "text_preview": "Press Space when you are ready to start the practice."
+    },
+    "e53b50df70c182fec16284b21504d21b3c6afc06ec4c68b12400ad9c347db693": {
+      "file": "e53b50df70c182fec16284b21504d21b3c6afc06ec4c68b12400ad9c347db693.mp3",
+      "bytes": 156960,
+      "chars": 203,
+      "text_preview": "Would you like to watch the demonstration again? (you can watch up to 3 more times) Press Yes (or click the button belo…"
+    },
+    "e572d612c3354c2813150b99ba7f09db011406f01709b95a52b569d2783a40d6": {
+      "file": "e572d612c3354c2813150b99ba7f09db011406f01709b95a52b569d2783a40d6.mp3",
+      "bytes": 158112,
+      "chars": 162,
+      "text_preview": "Now keep picturing the turned pattern. 6 things happen, mixed together: 3 tones to remember, 3 stars (inside the circle…"
+    },
+    "e644ace7707bf89e7a4603bcf334d2fa659b712f1b85787fa0eec93fb1276734": {
+      "file": "e644ace7707bf89e7a4603bcf334d2fa659b712f1b85787fa0eec93fb1276734.mp3",
+      "bytes": 112896,
+      "chars": 126,
+      "text_preview": "Thank you for completing the experiment. We'll save your data now — this usually takes a few seconds. Press Space to co…"
+    },
+    "eb59eef0a41298b95a2c282645172565aa8bacb4327d29a6d26b1bfb31c52355": {
+      "file": "eb59eef0a41298b95a2c282645172565aa8bacb4327d29a6d26b1bfb31c52355.mp3",
+      "bytes": 61920,
+      "chars": 67,
+      "text_preview": "We chose Yes — that was the correct answer, so the dot turns green."
+    },
+    "f11e65c9f3643a2dc8258d056fe5101a0c12c498b24b45f3acfa843987c0ace9": {
+      "file": "f11e65c9f3643a2dc8258d056fe5101a0c12c498b24b45f3acfa843987c0ace9.mp3",
+      "bytes": 40896,
+      "chars": 38,
+      "text_preview": "Tone 2 — keep listening for each tone."
+    },
+    "f1d1690dacbe0e36ff91dc7d0e000a433fa0e52bbb05236d1cf1d7ee8bcd5fde": {
+      "file": "f1d1690dacbe0e36ff91dc7d0e000a433fa0e52bbb05236d1cf1d7ee8bcd5fde.mp3",
+      "bytes": 31392,
+      "chars": 36,
+      "text_preview": "Hold the tones in mind for a moment."
     },
     "f3c2f0514e37195574bfd713f7d85ad25be2b67d6cdcdd2ce4ddd90a9f01a8fc": {
       "file": "f3c2f0514e37195574bfd713f7d85ad25be2b67d6cdcdd2ce4ddd90a9f01a8fc.mp3",
@@ -124,6 +616,24 @@
       "bytes": 188352,
       "chars": 221,
       "text_preview": "Here's how each trial starts. On each trial, an arrow will briefly appear. The arrow tells you to turn the pattern in y…"
+    },
+    "f69da1af132c5f37582df5f0a25b607c609cb2e53e8cb4dc377ae7d429ccb62c": {
+      "file": "f69da1af132c5f37582df5f0a25b607c609cb2e53e8cb4dc377ae7d429ccb62c.mp3",
+      "bytes": 50976,
+      "chars": 51,
+      "text_preview": "Test 2 of 3: was a dot just shown in this location?"
+    },
+    "f92584eb2aa703da7e8e44c76bd90a34f53a9b3a3e7d85f6b0e188ad043eadbd": {
+      "file": "f92584eb2aa703da7e8e44c76bd90a34f53a9b3a3e7d85f6b0e188ad043eadbd.mp3",
+      "bytes": 48672,
+      "chars": 58,
+      "text_preview": "Test 2 of 3: was this tone one of the ones you just heard?"
+    },
+    "fbfdd1eb41d17126b1f7e27b74afba1ddee81f0fa2d65862691199987b99551d": {
+      "file": "fbfdd1eb41d17126b1f7e27b74afba1ddee81f0fa2d65862691199987b99551d.mp3",
+      "bytes": 38304,
+      "chars": 38,
+      "text_preview": "Tone 1 — keep listening for each tone."
     }
   }
 }
