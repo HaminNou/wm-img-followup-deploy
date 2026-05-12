@@ -1,4 +1,4 @@
-import{H as p,d as h,e as y,f as g,h as f,u as w,j as v,k as _}from"./prolific-CzW6pvgT.js";const c="upload-progress-mount",k=5e3,b=1e3;function I({session:e,endpoint:o,label:i}={}){if(!e)throw new Error("uploadProgressNode: session is required");return{type:p,stimulus:`
+import{H as p,d as h,e as y,f as g,h as f,u as w,j as v,k as _}from"./prolific-BT6hWMQ5.js";const c="upload-progress-mount",k=5e3,b=1e3;function I({session:e,endpoint:o,label:i}={}){if(!e)throw new Error("uploadProgressNode: session is required");return{type:p,stimulus:`
       <div style="display: grid; place-items: center; gap: 1.25rem; max-width: 36rem; margin: 0 auto;">
         <h2 style="margin: 0;">Saving your data</h2>
         <p style="margin: 0; opacity: 0.85;">Please don't close this tab — this usually takes only a few seconds.</p>
@@ -40,4 +40,4 @@ import{H as p,d as h,e as y,f as g,h as f,u as w,j as v,k as _}from"./prolific-C
       If the redirect doesn't happen, <a href="${u(e)}" style="color: #60a5fa;">click here</a>.
     </p>
   `}export{A as c,I as u};
-//# sourceMappingURL=debrief-CCbcimHU.js.map
+//# sourceMappingURL=debrief-CoNGtakP.js.map
