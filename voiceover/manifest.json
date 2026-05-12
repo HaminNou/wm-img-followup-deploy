@@ -3,7 +3,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "model": "edge-tts",
   "rate": "-15%",
-  "rendered_at": "2026-05-12T01:00:51.975Z",
+  "rendered_at": "2026-05-12T05:28:27.773Z",
   "entries": {
     "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d": {
       "file": "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d.mp3",
@@ -538,6 +538,12 @@
       "bytes": 109728,
       "chars": 92,
       "text_preview": "Step 2 of 3 — An arrow tells you which way to turn the pattern in your mind (here, by -75°)."
+    },
+    "db754a1bfc64e944f1f4ec58059e71331adc1b7e36f29f68f9e6013fb9701e30": {
+      "file": "db754a1bfc64e944f1f4ec58059e71331adc1b7e36f29f68f9e6013fb9701e30.mp3",
+      "bytes": 279936,
+      "chars": 311,
+      "text_preview": "24 tones will start playing in a loop in a moment, from low to high. Each box lights up while its tone plays. Use the s…"
     },
     "dd03a84f2c1b9d8fd7760bd6cc8549c188f45cad8a1f2830398ff4c10e0582e3": {
       "file": "dd03a84f2c1b9d8fd7760bd6cc8549c188f45cad8a1f2830398ff4c10e0582e3.mp3",

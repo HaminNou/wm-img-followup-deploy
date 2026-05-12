@@ -356,6 +356,10 @@
     "source": "demos.caption2"
   },
   {
+    "text": "24 tones will start playing in a loop in a moment, from low to high. Each box lights up while its tone plays. Use the slider below to set a level that is clearly audible but never uncomfortably loud , even on the very lowest and very highest tones. When the level feels right, click I'm comfortable — continue .",
+    "source": "tone-fam.toneAudibilityAndComfortTrial.stimulus#0"
+  },
+  {
     "text": "Would you like to watch the demonstration again? (this is the last replay you can request) Press Yes (or click the button below) to watch it again. When you are ready to start the practice, press the Space key.",
     "source": "demos.caption56"
   },
