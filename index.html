@@ -86,6 +86,21 @@
       html[data-trial-bg='gray'] .overall-trial-counter {
         color: rgba(0, 0, 0, 0.6);
       }
+      /* The trial-start-gate hint ("Press both arrow keys to start the
+       * next trial.") is a body-level `position: fixed` overlay that
+       * carries an inline `color: gray` for the dark-theme default. On
+       * a light-shade trial page that mid-gray-on-light-gray pair sits
+       * uncomfortably low contrast, so switch it to dim ink under the
+       * trial-bg selectors. Alpha 0.55 mirrors the bull's-eye
+       * fixation-mark colour used on light pages
+       * (`FIXATION_MARK_COLOUR_DARK` in src/visuals/colour-palette.js)
+       * so the hint and the central fixation aid share visual weight.
+       * Specificity matches the inline `color: gray` because the
+       * `html[data-trial-bg]` ancestor wins on cascade order. */
+      html[data-trial-bg='white'] .trial-start-hint,
+      html[data-trial-bg='gray'] .trial-start-hint {
+        color: rgba(0, 0, 0, 0.55);
+      }
       .jspsych-content {
         max-width: 720px;
       }
@@ -316,13 +331,13 @@
         background: rgba(255, 255, 255, 0.3);
       }
     </style>
-    <script type="module" crossorigin src="./assets/main--RkPHbfN.js"></script>
+    <script type="module" crossorigin src="./assets/main-CEDyds9G.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
-    <link rel="modulepreload" crossorigin href="./assets/config-_8Yl_G_G.js">
-    <link rel="modulepreload" crossorigin href="./assets/index-DYJhehk_.js">
-    <link rel="modulepreload" crossorigin href="./assets/pattern-BsPo95Cs.js">
-    <link rel="modulepreload" crossorigin href="./assets/main-blocks-BmFzr8c_.js">
-    <link rel="modulepreload" crossorigin href="./assets/debrief-DUbrGR0S.js">
+    <link rel="modulepreload" crossorigin href="./assets/config-zUhCg_tb.js">
+    <link rel="modulepreload" crossorigin href="./assets/index-Bz6dieJX.js">
+    <link rel="modulepreload" crossorigin href="./assets/pattern-CJtvzC-V.js">
+    <link rel="modulepreload" crossorigin href="./assets/main-blocks-DOeo7usz.js">
+    <link rel="modulepreload" crossorigin href="./assets/debrief-DfHPYObw.js">
     <link rel="stylesheet" crossorigin href="./assets/index-BF-BwXlM.css">
   </head>
   <body>
