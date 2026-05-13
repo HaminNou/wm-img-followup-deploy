@@ -16,6 +16,10 @@
     "source": "memory.tOnlyInstructionNode.page3#0:script"
   },
   {
+    "text": "After the 6 things, we will test your dot memory 3 times. Each time, a black dot will be shown for 3 seconds in some location. Press Yes if a dot was presented here. Press No if no dot was presented here. You will have 3 seconds for each star and for each dot test. If you answer in time, the star or dot can turn green if you were correct, or red if you were not, while it is still on the screen, so you can learn from each response.",
+    "source": "dual.iDInstructionNode.page2#0:script"
+  },
+  {
     "text": "After the 6 things, we will test your dot memory 3 times. Each time, a white dot will be shown for 3 seconds in some location. Press Yes if a dot was presented here. Press No if no dot was presented here. You will have 3 seconds for each star and for each dot test. If you answer in time, the star or dot can turn green if you were correct, or red if you were not, while it is still on the screen, so you can learn from each response.",
     "source": "dual.iDInstructionNode.page2#0:script"
   },
@@ -38,6 +42,10 @@
   {
     "text": "Last block. 60 more trials, same controls, with 60-second rests after trials 20 and 40. Press Space to begin Block 2.",
     "source": "runner-intros.mainBIntroNode.stimulus#0"
+  },
+  {
+    "text": "Would you like to watch the demonstration again? (this is the last replay you can request) Click the button below to watch it again. When you are ready to start the practice, press the Space key.",
+    "source": "demos.caption56"
   },
   {
     "text": "Dot test 2 of 3: was a dot shown in this location?",
@@ -132,12 +140,20 @@
     "source": "demos.caption21"
   },
   {
+    "text": "After the dots, we will test your memory 3 times. Each time, a black dot will be shown for 3 seconds, and you have to say whether the dot was shown in that location. Just keep watching the centre of the circle, and remember each dot whenever it appears.",
+    "source": "memory.dOnlyInstructionNode.page1#0:script"
+  },
+  {
     "text": "We chose No — that was the correct answer, so the dot turns green.",
     "source": "demos.caption62"
   },
   {
     "text": "A few more things to know. You will have 3 seconds for each star. Try to get it right rather than answer quickly, but please don't take too long either. If you answer in time, the star can turn green if you were correct, or red if you were not. This colour change happens while the star is still on the screen, so you can learn from each star. Be honest about what you actually see in your mind. If your picture is fuzzy, just do your best — there is no expectation of a perfect mental picture. When you're ready, press Space to start the practice for Task 3.",
     "source": "imagery.iOnlyInstructionNode.page3#0:script"
+  },
+  {
+    "text": "Would you like to watch the demonstration again? (you can watch up to 3 more times) Click the button below to watch it again. When you are ready to start the practice, press the Space key.",
+    "source": "demos.caption58"
   },
   {
     "text": "Welcome to Task 3. In this task, we will ask you to picture a pattern in your mind, and to keep that picture clear while you respond. Important: you will see the pattern in the demonstration just before the practice — please pay close attention to it then, because the pattern will not be shown again during the trials.",
@@ -322,6 +338,10 @@
   {
     "text": "Last dot — remember its location.",
     "source": "demos.caption16"
+  },
+  {
+    "text": "Would you like to watch the demonstration again? (you can watch up to 2 more times) Click the button below to watch it again. When you are ready to start the practice, press the Space key.",
+    "source": "demos.caption57"
   },
   {
     "text": "Now on to the last task, Task 5. This task combines Task 3, the pattern, with Task 2, the tones. Each trial begins with the arrow, which tells you to turn the pattern in your mind. Hold this turned pattern in mind for the whole trial.",
