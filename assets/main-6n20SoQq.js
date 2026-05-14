@@ -521,10 +521,10 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as nt,r as ot,H as 
         <p>You will now do a short practice for this task before moving
         on to the next.</p>
         <p style="text-align: center; margin-top: 1.5rem;">
-          When you're ready, press <kbd>Space</kbd> to start the practice
-          for Task 1.
+          When you're ready, press <kbd>Space</kbd> to see a demonstration
+          of Task 1.
         </p>
-      `,narration:"One last thing. If you answer in time, the dot can turn green if you were correct, or red if you were not. This colour change happens while the dot is still on the screen, so you can learn from each test. You will now do a short practice for this task before moving on to the next. When you're ready, press Space to start the practice for Task 1."})],o={type:te,pages:n,...kt,data:{phase:"instructions_memory_d_only"}};return B(o.data.phase,Tt),Y(o)}function xt(){const t=f.memory.set_size,e="Task 2 — Remember the tones",n=[y({title:e,body:`
+      `,narration:"One last thing. If you answer in time, the dot can turn green if you were correct, or red if you were not. This colour change happens while the dot is still on the screen, so you can learn from each test. You will now do a short practice for this task before moving on to the next. When you're ready, press Space to see a demonstration of Task 1."})],o={type:te,pages:n,...kt,data:{phase:"instructions_memory_d_only"}};return B(o.data.phase,Tt),Y(o)}function xt(){const t=f.memory.set_size,e="Task 2 — Remember the tones",n=[y({title:e,body:`
         <p>Now on to Task 2.</p>
         <p>This task works just like Task 1, but now you will hear sounds
         instead of seeing dots. You will hear <strong>${t} short
@@ -554,10 +554,10 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as nt,r as ot,H as 
         <p>Please make sure your audio volume is still at the level you
         set earlier.</p>
         <p style="text-align: center; margin-top: 1.5rem;">
-          When you're ready, press <kbd>Space</kbd> to start the practice
-          for Task 2.
+          When you're ready, press <kbd>Space</kbd> to see a demonstration
+          of Task 2.
         </p>
-      `,narration:"One quick reminder. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to start the practice for Task 2."})],o={type:te,pages:n,...kt,data:{phase:"instructions_memory_t_only"}};return B(o.data.phase,xt),Y(o)}const ko='<span style="color: #34d399;"><strong>green</strong></span>',To='<span style="color: #f87171;"><strong>red</strong></span>',xo='<p style="border-left: 3px solid #772139; padding: 0.5rem 0.75rem; margin: 1rem 0; background: rgba(119, 33, 57, 0.08);">',Oo=Object.freeze({key_forward:" ",key_backward:"ArrowLeft",allow_backward:!0,allow_keys:!0,show_clickable_nav:!0,show_page_number:!0,page_label:"Page",button_label_previous:"Previous",button_label_next:"Next"});function Ot(){const t=f.imagery.stars_per_trial,e="Task 3 — Picture the pattern",n=[y({title:e,body:`
+      `,narration:"One quick reminder. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to see a demonstration of Task 2."})],o={type:te,pages:n,...kt,data:{phase:"instructions_memory_t_only"}};return B(o.data.phase,xt),Y(o)}const ko='<span style="color: #34d399;"><strong>green</strong></span>',To='<span style="color: #f87171;"><strong>red</strong></span>',xo='<p style="border-left: 3px solid #772139; padding: 0.5rem 0.75rem; margin: 1rem 0; background: rgba(119, 33, 57, 0.08);">',Oo=Object.freeze({key_forward:" ",key_backward:"ArrowLeft",allow_backward:!0,allow_keys:!0,show_clickable_nav:!0,show_page_number:!0,page_label:"Page",button_label_previous:"Previous",button_label_next:"Next"});function Ot(){const t=f.imagery.stars_per_trial,e="Task 3 — Picture the pattern",n=[y({title:e,body:`
         <p>Welcome to Task 3.</p>
         <p>In this task, we will ask you to <strong>picture a pattern in
         your mind</strong>, and to keep that picture clear while you
@@ -597,10 +597,10 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as nt,r as ot,H as 
         picture is fuzzy, just do your best — there is no expectation of
         a perfect mental picture.</p>
         <p style="text-align: center; margin-top: 1.5rem;">
-          When you're ready, press <kbd>Space</kbd> to start the practice
-          for Task 3.
+          When you're ready, press <kbd>Space</kbd> to see a demonstration
+          of Task 3.
         </p>
-      `,narration:"A few more things to know. You will have 3 seconds for each star. Try to get it right rather than answer quickly, but please don't take too long either. If you answer in time, the star can turn green if you were correct, or red if you were not. This colour change happens while the star is still on the screen, so you can learn from each star. Be honest about what you actually see in your mind. If your picture is fuzzy, just do your best — there is no expectation of a perfect mental picture. When you're ready, press Space to start the practice for Task 3."})],o={type:te,pages:n,...Oo,data:{phase:"instructions_imagery_i_only"}};return B(o.data.phase,Ot),Y(o)}const Et='<span style="color: #34d399;"><strong>green</strong></span>',jt='<span style="color: #f87171;"><strong>red</strong></span>',Pt='<p style="border-left: 3px solid #772139; padding: 0.5rem 0.75rem; margin: 1rem 0; background: rgba(119, 33, 57, 0.08);">',St=Object.freeze({key_forward:" ",key_backward:"ArrowLeft",allow_backward:!0,allow_keys:!0,show_clickable_nav:!0,show_page_number:!0,page_label:"Page",button_label_previous:"Previous",button_label_next:"Next"});function It(){const t=f.memory.set_size,e=f.imagery.stars_per_trial,n=t+e,o="Task 4 — Dots and pattern together",r=[y({title:o,body:`
+      `,narration:"A few more things to know. You will have 3 seconds for each star. Try to get it right rather than answer quickly, but please don't take too long either. If you answer in time, the star can turn green if you were correct, or red if you were not. This colour change happens while the star is still on the screen, so you can learn from each star. Be honest about what you actually see in your mind. If your picture is fuzzy, just do your best — there is no expectation of a perfect mental picture. When you're ready, press Space to see a demonstration of Task 3."})],o={type:te,pages:n,...Oo,data:{phase:"instructions_imagery_i_only"}};return B(o.data.phase,Ot),Y(o)}const Et='<span style="color: #34d399;"><strong>green</strong></span>',jt='<span style="color: #f87171;"><strong>red</strong></span>',Pt='<p style="border-left: 3px solid #772139; padding: 0.5rem 0.75rem; margin: 1rem 0; background: rgba(119, 33, 57, 0.08);">',St=Object.freeze({key_forward:" ",key_backward:"ArrowLeft",allow_backward:!0,allow_keys:!0,show_clickable_nav:!0,show_page_number:!0,page_label:"Page",button_label_previous:"Previous",button_label_next:"Next"});function It(){const t=f.memory.set_size,e=f.imagery.stars_per_trial,n=t+e,o="Task 4 — Dots and pattern together",r=[y({title:o,body:`
         <p>Now on to Task 4.</p>
         <p>This task combines Task 3 (the pattern) with Task 1 (the
         dots). Each trial begins with the <strong>arrow</strong>, which
@@ -647,10 +647,10 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as nt,r as ot,H as 
         dot tests begin, and at that point you can drop the image and
         focus only on the dot tests.</p>
         <p style="text-align: center; margin-top: 1.5rem;">
-          When you're ready, press <kbd>Space</kbd> to start the practice
-          for Task 4.
+          When you're ready, press <kbd>Space</kbd> to see a demonstration
+          of Task 4.
         </p>
-      `,narration:"One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the dot tests begin, and at that point you can drop the image and focus only on the dot tests. When you're ready, press Space to start the practice for Task 4."})],a={type:te,pages:r,...St,data:{phase:"instructions_dual_i_d"}};return B(a.data.phase,It),Y(a)}function Nt(){const t=f.memory.set_size,e=f.imagery.stars_per_trial,n=t+e,o="Task 5 — Tones and pattern together",r=[y({title:o,body:`
+      `,narration:"One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the dot tests begin, and at that point you can drop the image and focus only on the dot tests. When you're ready, press Space to see a demonstration of Task 4."})],a={type:te,pages:r,...St,data:{phase:"instructions_dual_i_d"}};return B(a.data.phase,It),Y(a)}function Nt(){const t=f.memory.set_size,e=f.imagery.stars_per_trial,n=t+e,o="Task 5 — Tones and pattern together",r=[y({title:o,body:`
         <p>Now on to the last task, Task 5.</p>
         <p>This task combines Task 3 (the pattern) with Task 2 (the
         tones). Each trial begins with the <strong>arrow</strong>, which
@@ -699,10 +699,10 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as nt,r as ot,H as 
         <p>Please make sure your audio volume is still at the level you
         set earlier.</p>
         <p style="text-align: center; margin-top: 1.5rem;">
-          When you're ready, press <kbd>Space</kbd> to start the practice
-          for Task 5.
+          When you're ready, press <kbd>Space</kbd> to see a demonstration
+          of Task 5.
         </p>
-      `,narration:"One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the tone tests begin, and at that point you can drop the image and focus only on the tone tests. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to start the practice for Task 5."})],a={type:te,pages:r,...St,data:{phase:"instructions_dual_i_t"}};return B(a.data.phase,Nt),Y(a)}const ne=4,pe=1e3*ne,ye=1500*ne,Eo=4e3*ne,jo=2e3*ne,Po=8e3,ge=2e3*ne,So=2e3,oe=2500,be=1200,Io=400,No=700,Ke=450,Co=220,L=3e3,q=1500,$=2800,z=2500,qe=1e3,Ao=Object.freeze([-90,-75,-60,-45,-30,-15,15,30,45,60,75,90]);function $e(){return Ne().pick(Ao)}const Lo="./assets/rotation-arrow.png";function qo(t,e){return`
+      `,narration:"One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the tone tests begin, and at that point you can drop the image and focus only on the tone tests. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to see a demonstration of Task 5."})],a={type:te,pages:r,...St,data:{phase:"instructions_dual_i_t"}};return B(a.data.phase,Nt),Y(a)}const ne=4,pe=1e3*ne,ye=1500*ne,Eo=4e3*ne,jo=2e3*ne,Po=8e3,ge=2e3*ne,So=2e3,oe=2500,be=1200,Io=400,No=700,Ke=450,Co=220,L=3e3,q=1500,$=2800,z=2500,qe=1e3,Ao=Object.freeze([-90,-75,-60,-45,-30,-15,15,30,45,60,75,90]);function $e(){return Ne().pick(Ao)}const Lo="./assets/rotation-arrow.png";function qo(t,e){return`
     <style>
       @keyframes demo-caption-bump {
         0%   { transform: scale(0.97); opacity: 0.55; }
@@ -1011,4 +1011,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as nt,r as ot,H as 
         <p><small>Error reference: <code>${t&&t.message||"unknown"}</code></small></p>
       </div>
     `});
-//# sourceMappingURL=main-BR9mHwCh.js.map
+//# sourceMappingURL=main-6n20SoQq.js.map

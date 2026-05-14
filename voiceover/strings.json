@@ -104,6 +104,10 @@
     "source": "dual.iTInstructionNode.page3#0:script"
   },
   {
+    "text": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the tone tests begin, and at that point you can drop the image and focus only on the tone tests. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to see a demonstration of Task 5.",
+    "source": "dual.iTInstructionNode.page3#0:script"
+  },
+  {
     "text": "Test 1 of 3: was this tone one of the ones you just heard?",
     "source": "demos.caption36"
   },
@@ -212,6 +216,10 @@
     "source": "demos.caption67"
   },
   {
+    "text": "One quick reminder. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to see a demonstration of Task 2.",
+    "source": "memory.tOnlyInstructionNode.page3#0:script"
+  },
+  {
     "text": "We chose On-pattern — that was incorrect; the correct answer was Not on-pattern, so the star turns red.",
     "source": "demos.caption73"
   },
@@ -300,6 +308,10 @@
     "source": "memory.tOnlyInstructionNode.page0#0:script"
   },
   {
+    "text": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire trial. The only moment you may let the picture go is when the central question mark appears — that is when the dot tests begin, and at that point you can drop the image and focus only on the dot tests. When you're ready, press Space to see a demonstration of Task 4.",
+    "source": "dual.iDInstructionNode.page3#0:script"
+  },
+  {
     "text": "Dot test 3 of 3: was a dot shown in this location?",
     "source": "demos.caption50"
   },
@@ -372,8 +384,16 @@
     "source": "dual.iDInstructionNode.page0#0:script"
   },
   {
+    "text": "One last thing. If you answer in time, the dot can turn green if you were correct, or red if you were not. This colour change happens while the dot is still on the screen, so you can learn from each test. You will now do a short practice for this task before moving on to the next. When you're ready, press Space to see a demonstration of Task 1.",
+    "source": "memory.dOnlyInstructionNode.page3#0:script"
+  },
+  {
     "text": "Your previous setting was outside the range we can use. Please make sure you have an actual credit card in hand. On the next screen, hold the card flat against your monitor and drag the slider until the on-screen rectangle matches the card's width. If you don't have a credit card available, just continue — we will use your best estimate.",
     "source": "screen.screenCalibrationWithRetry.timeline[0].timeline[0].stimulus#0"
+  },
+  {
+    "text": "A few more things to know. You will have 3 seconds for each star. Try to get it right rather than answer quickly, but please don't take too long either. If you answer in time, the star can turn green if you were correct, or red if you were not. This colour change happens while the star is still on the screen, so you can learn from each star. Be honest about what you actually see in your mind. If your picture is fuzzy, just do your best — there is no expectation of a perfect mental picture. When you're ready, press Space to see a demonstration of Task 3.",
+    "source": "imagery.iOnlyInstructionNode.page3#0:script"
   },
   {
     "text": "Star 3 — judge it against your turned pattern.",

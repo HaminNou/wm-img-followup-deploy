@@ -3,7 +3,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "model": "edge-tts",
   "rate": "-15%",
-  "rendered_at": "2026-05-13T21:33:26.420Z",
+  "rendered_at": "2026-05-13T23:07:14.850Z",
   "entries": {
     "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d": {
       "file": "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d.mp3",
@@ -4365,6 +4365,449 @@
           "text": "5",
           "offset_ms": 30368,
           "duration_ms": 559
+        }
+      ]
+    },
+    "430f07fbb95c8795991980ff5d0bb1ab96e74abc9839d0949087901f336ee9e7": {
+      "file": "430f07fbb95c8795991980ff5d0bb1ab96e74abc9839d0949087901f336ee9e7.mp3",
+      "bytes": 393696,
+      "chars": 457,
+      "text_preview": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire tria…",
+      "word_boundaries": [
+        {
+          "text": "One",
+          "offset_ms": 118,
+          "duration_ms": 191
+        },
+        {
+          "text": "last",
+          "offset_ms": 324,
+          "duration_ms": 324
+        },
+        {
+          "text": "thing",
+          "offset_ms": 662,
+          "duration_ms": 397
+        },
+        {
+          "text": "and",
+          "offset_ms": 1397,
+          "duration_ms": 88
+        },
+        {
+          "text": "this",
+          "offset_ms": 1500,
+          "duration_ms": 206
+        },
+        {
+          "text": "is",
+          "offset_ms": 1721,
+          "duration_ms": 118
+        },
+        {
+          "text": "very",
+          "offset_ms": 1838,
+          "duration_ms": 382
+        },
+        {
+          "text": "important",
+          "offset_ms": 2221,
+          "duration_ms": 588
+        },
+        {
+          "text": "Keep",
+          "offset_ms": 3265,
+          "duration_ms": 221
+        },
+        {
+          "text": "the",
+          "offset_ms": 3500,
+          "duration_ms": 132
+        },
+        {
+          "text": "picture",
+          "offset_ms": 3632,
+          "duration_ms": 662
+        },
+        {
+          "text": "of",
+          "offset_ms": 4309,
+          "duration_ms": 132
+        },
+        {
+          "text": "the",
+          "offset_ms": 4441,
+          "duration_ms": 88
+        },
+        {
+          "text": "rotated",
+          "offset_ms": 4529,
+          "duration_ms": 809
+        },
+        {
+          "text": "pattern",
+          "offset_ms": 5353,
+          "duration_ms": 588
+        },
+        {
+          "text": "in",
+          "offset_ms": 6103,
+          "duration_ms": 132
+        },
+        {
+          "text": "your",
+          "offset_ms": 6250,
+          "duration_ms": 118
+        },
+        {
+          "text": "mind",
+          "offset_ms": 6368,
+          "duration_ms": 603
+        },
+        {
+          "text": "during",
+          "offset_ms": 7324,
+          "duration_ms": 279
+        },
+        {
+          "text": "the",
+          "offset_ms": 7618,
+          "duration_ms": 59
+        },
+        {
+          "text": "entire",
+          "offset_ms": 7676,
+          "duration_ms": 735
+        },
+        {
+          "text": "trial",
+          "offset_ms": 8426,
+          "duration_ms": 647
+        },
+        {
+          "text": "The",
+          "offset_ms": 9559,
+          "duration_ms": 191
+        },
+        {
+          "text": "only",
+          "offset_ms": 9765,
+          "duration_ms": 338
+        },
+        {
+          "text": "moment",
+          "offset_ms": 10103,
+          "duration_ms": 397
+        },
+        {
+          "text": "you",
+          "offset_ms": 10515,
+          "duration_ms": 118
+        },
+        {
+          "text": "may",
+          "offset_ms": 10632,
+          "duration_ms": 206
+        },
+        {
+          "text": "let",
+          "offset_ms": 10853,
+          "duration_ms": 309
+        },
+        {
+          "text": "the",
+          "offset_ms": 11162,
+          "duration_ms": 118
+        },
+        {
+          "text": "picture",
+          "offset_ms": 11279,
+          "duration_ms": 471
+        },
+        {
+          "text": "go",
+          "offset_ms": 11765,
+          "duration_ms": 485
+        },
+        {
+          "text": "is",
+          "offset_ms": 12324,
+          "duration_ms": 162
+        },
+        {
+          "text": "when",
+          "offset_ms": 12500,
+          "duration_ms": 118
+        },
+        {
+          "text": "the",
+          "offset_ms": 12618,
+          "duration_ms": 88
+        },
+        {
+          "text": "central",
+          "offset_ms": 12721,
+          "duration_ms": 485
+        },
+        {
+          "text": "question",
+          "offset_ms": 13206,
+          "duration_ms": 441
+        },
+        {
+          "text": "mark",
+          "offset_ms": 13647,
+          "duration_ms": 235
+        },
+        {
+          "text": "appears",
+          "offset_ms": 13897,
+          "duration_ms": 735
+        },
+        {
+          "text": "that",
+          "offset_ms": 14897,
+          "duration_ms": 147
+        },
+        {
+          "text": "is",
+          "offset_ms": 15044,
+          "duration_ms": 103
+        },
+        {
+          "text": "when",
+          "offset_ms": 15147,
+          "duration_ms": 118
+        },
+        {
+          "text": "the",
+          "offset_ms": 15265,
+          "duration_ms": 103
+        },
+        {
+          "text": "tone",
+          "offset_ms": 15368,
+          "duration_ms": 485
+        },
+        {
+          "text": "tests",
+          "offset_ms": 15853,
+          "duration_ms": 426
+        },
+        {
+          "text": "begin",
+          "offset_ms": 16279,
+          "duration_ms": 574
+        },
+        {
+          "text": "and",
+          "offset_ms": 17353,
+          "duration_ms": 338
+        },
+        {
+          "text": "at",
+          "offset_ms": 18074,
+          "duration_ms": 147
+        },
+        {
+          "text": "that",
+          "offset_ms": 18221,
+          "duration_ms": 221
+        },
+        {
+          "text": "point",
+          "offset_ms": 18441,
+          "duration_ms": 279
+        },
+        {
+          "text": "you",
+          "offset_ms": 18721,
+          "duration_ms": 103
+        },
+        {
+          "text": "can",
+          "offset_ms": 18824,
+          "duration_ms": 103
+        },
+        {
+          "text": "drop",
+          "offset_ms": 18926,
+          "duration_ms": 324
+        },
+        {
+          "text": "the",
+          "offset_ms": 19250,
+          "duration_ms": 118
+        },
+        {
+          "text": "image",
+          "offset_ms": 19368,
+          "duration_ms": 441
+        },
+        {
+          "text": "and",
+          "offset_ms": 19985,
+          "duration_ms": 132
+        },
+        {
+          "text": "focus",
+          "offset_ms": 20118,
+          "duration_ms": 574
+        },
+        {
+          "text": "only",
+          "offset_ms": 20779,
+          "duration_ms": 279
+        },
+        {
+          "text": "on",
+          "offset_ms": 21059,
+          "duration_ms": 88
+        },
+        {
+          "text": "the",
+          "offset_ms": 21147,
+          "duration_ms": 74
+        },
+        {
+          "text": "tone",
+          "offset_ms": 21221,
+          "duration_ms": 353
+        },
+        {
+          "text": "tests",
+          "offset_ms": 21574,
+          "duration_ms": 721
+        },
+        {
+          "text": "Please",
+          "offset_ms": 22794,
+          "duration_ms": 162
+        },
+        {
+          "text": "make",
+          "offset_ms": 22956,
+          "duration_ms": 162
+        },
+        {
+          "text": "sure",
+          "offset_ms": 23118,
+          "duration_ms": 176
+        },
+        {
+          "text": "your",
+          "offset_ms": 23294,
+          "duration_ms": 147
+        },
+        {
+          "text": "audio",
+          "offset_ms": 23441,
+          "duration_ms": 426
+        },
+        {
+          "text": "volume",
+          "offset_ms": 23868,
+          "duration_ms": 574
+        },
+        {
+          "text": "is",
+          "offset_ms": 24779,
+          "duration_ms": 103
+        },
+        {
+          "text": "still",
+          "offset_ms": 24882,
+          "duration_ms": 632
+        },
+        {
+          "text": "at",
+          "offset_ms": 25632,
+          "duration_ms": 88
+        },
+        {
+          "text": "the",
+          "offset_ms": 25735,
+          "duration_ms": 103
+        },
+        {
+          "text": "level",
+          "offset_ms": 25838,
+          "duration_ms": 309
+        },
+        {
+          "text": "you",
+          "offset_ms": 26162,
+          "duration_ms": 103
+        },
+        {
+          "text": "set",
+          "offset_ms": 26265,
+          "duration_ms": 353
+        },
+        {
+          "text": "earlier",
+          "offset_ms": 26632,
+          "duration_ms": 529
+        },
+        {
+          "text": "When",
+          "offset_ms": 27647,
+          "duration_ms": 132
+        },
+        {
+          "text": "you're",
+          "offset_ms": 27779,
+          "duration_ms": 132
+        },
+        {
+          "text": "ready",
+          "offset_ms": 27912,
+          "duration_ms": 368
+        },
+        {
+          "text": "press",
+          "offset_ms": 28779,
+          "duration_ms": 382
+        },
+        {
+          "text": "Space",
+          "offset_ms": 29162,
+          "duration_ms": 500
+        },
+        {
+          "text": "to",
+          "offset_ms": 29676,
+          "duration_ms": 118
+        },
+        {
+          "text": "see",
+          "offset_ms": 29809,
+          "duration_ms": 382
+        },
+        {
+          "text": "a",
+          "offset_ms": 30294,
+          "duration_ms": 59
+        },
+        {
+          "text": "demonstration",
+          "offset_ms": 30353,
+          "duration_ms": 941
+        },
+        {
+          "text": "of",
+          "offset_ms": 31309,
+          "duration_ms": 88
+        },
+        {
+          "text": "Task",
+          "offset_ms": 31397,
+          "duration_ms": 441
+        },
+        {
+          "text": "5",
+          "offset_ms": 31853,
+          "duration_ms": 529
         }
       ]
     },
@@ -8774,6 +9217,159 @@
         }
       ]
     },
+    "8df4bb1dd0f2a6280dc087bd5e5bc04c829e405d46b44af778435e17b1ff966a": {
+      "file": "8df4bb1dd0f2a6280dc087bd5e5bc04c829e405d46b44af778435e17b1ff966a.mp3",
+      "bytes": 138240,
+      "chars": 158,
+      "text_preview": "One quick reminder. Please make sure your audio volume is still at the level you set earlier. When you're ready, press …",
+      "word_boundaries": [
+        {
+          "text": "One",
+          "offset_ms": 118,
+          "duration_ms": 176
+        },
+        {
+          "text": "quick",
+          "offset_ms": 309,
+          "duration_ms": 206
+        },
+        {
+          "text": "reminder",
+          "offset_ms": 515,
+          "duration_ms": 588
+        },
+        {
+          "text": "Please",
+          "offset_ms": 1632,
+          "duration_ms": 162
+        },
+        {
+          "text": "make",
+          "offset_ms": 1794,
+          "duration_ms": 176
+        },
+        {
+          "text": "sure",
+          "offset_ms": 1971,
+          "duration_ms": 191
+        },
+        {
+          "text": "your",
+          "offset_ms": 2176,
+          "duration_ms": 132
+        },
+        {
+          "text": "audio",
+          "offset_ms": 2309,
+          "duration_ms": 397
+        },
+        {
+          "text": "volume",
+          "offset_ms": 2721,
+          "duration_ms": 574
+        },
+        {
+          "text": "is",
+          "offset_ms": 3500,
+          "duration_ms": 118
+        },
+        {
+          "text": "still",
+          "offset_ms": 3632,
+          "duration_ms": 676
+        },
+        {
+          "text": "at",
+          "offset_ms": 4471,
+          "duration_ms": 59
+        },
+        {
+          "text": "the",
+          "offset_ms": 4529,
+          "duration_ms": 103
+        },
+        {
+          "text": "level",
+          "offset_ms": 4632,
+          "duration_ms": 324
+        },
+        {
+          "text": "you",
+          "offset_ms": 4956,
+          "duration_ms": 132
+        },
+        {
+          "text": "set",
+          "offset_ms": 5103,
+          "duration_ms": 353
+        },
+        {
+          "text": "earlier",
+          "offset_ms": 5471,
+          "duration_ms": 574
+        },
+        {
+          "text": "When",
+          "offset_ms": 6515,
+          "duration_ms": 132
+        },
+        {
+          "text": "you're",
+          "offset_ms": 6662,
+          "duration_ms": 132
+        },
+        {
+          "text": "ready",
+          "offset_ms": 6794,
+          "duration_ms": 353
+        },
+        {
+          "text": "press",
+          "offset_ms": 7456,
+          "duration_ms": 338
+        },
+        {
+          "text": "Space",
+          "offset_ms": 7809,
+          "duration_ms": 456
+        },
+        {
+          "text": "to",
+          "offset_ms": 8279,
+          "duration_ms": 118
+        },
+        {
+          "text": "see",
+          "offset_ms": 8412,
+          "duration_ms": 324
+        },
+        {
+          "text": "a",
+          "offset_ms": 8824,
+          "duration_ms": 74
+        },
+        {
+          "text": "demonstration",
+          "offset_ms": 8912,
+          "duration_ms": 985
+        },
+        {
+          "text": "of",
+          "offset_ms": 10059,
+          "duration_ms": 147
+        },
+        {
+          "text": "Task",
+          "offset_ms": 10206,
+          "duration_ms": 485
+        },
+        {
+          "text": "2",
+          "offset_ms": 10691,
+          "duration_ms": 426
+        }
+      ]
+    },
     "8e2d25a24c200a4fd78c5e2c09b1b3ae19370958c55001ed11c8d8aedd7e378a": {
       "file": "8e2d25a24c200a4fd78c5e2c09b1b3ae19370958c55001ed11c8d8aedd7e378a.mp3",
       "bytes": 91008,
@@ -12475,6 +13071,379 @@
         }
       ]
     },
+    "b389323facf7f385d342fb07f854de084c55ea52faec5faa8ae089e36027fb71": {
+      "file": "b389323facf7f385d342fb07f854de084c55ea52faec5faa8ae089e36027fb71.mp3",
+      "bytes": 317664,
+      "chars": 381,
+      "text_preview": "One last thing, and this is very important. Keep the picture of the rotated pattern in your mind during the entire tria…",
+      "word_boundaries": [
+        {
+          "text": "One",
+          "offset_ms": 118,
+          "duration_ms": 132
+        },
+        {
+          "text": "last",
+          "offset_ms": 250,
+          "duration_ms": 294
+        },
+        {
+          "text": "thing",
+          "offset_ms": 544,
+          "duration_ms": 382
+        },
+        {
+          "text": "and",
+          "offset_ms": 1265,
+          "duration_ms": 59
+        },
+        {
+          "text": "this",
+          "offset_ms": 1324,
+          "duration_ms": 162
+        },
+        {
+          "text": "is",
+          "offset_ms": 1485,
+          "duration_ms": 132
+        },
+        {
+          "text": "very",
+          "offset_ms": 1632,
+          "duration_ms": 368
+        },
+        {
+          "text": "important",
+          "offset_ms": 2015,
+          "duration_ms": 618
+        },
+        {
+          "text": "Keep",
+          "offset_ms": 3088,
+          "duration_ms": 221
+        },
+        {
+          "text": "the",
+          "offset_ms": 3309,
+          "duration_ms": 132
+        },
+        {
+          "text": "picture",
+          "offset_ms": 3456,
+          "duration_ms": 750
+        },
+        {
+          "text": "of",
+          "offset_ms": 4279,
+          "duration_ms": 118
+        },
+        {
+          "text": "the",
+          "offset_ms": 4412,
+          "duration_ms": 74
+        },
+        {
+          "text": "rotated",
+          "offset_ms": 4485,
+          "duration_ms": 750
+        },
+        {
+          "text": "pattern",
+          "offset_ms": 5235,
+          "duration_ms": 588
+        },
+        {
+          "text": "in",
+          "offset_ms": 5971,
+          "duration_ms": 132
+        },
+        {
+          "text": "your",
+          "offset_ms": 6103,
+          "duration_ms": 118
+        },
+        {
+          "text": "mind",
+          "offset_ms": 6221,
+          "duration_ms": 544
+        },
+        {
+          "text": "during",
+          "offset_ms": 6882,
+          "duration_ms": 279
+        },
+        {
+          "text": "the",
+          "offset_ms": 7176,
+          "duration_ms": 59
+        },
+        {
+          "text": "entire",
+          "offset_ms": 7250,
+          "duration_ms": 662
+        },
+        {
+          "text": "trial",
+          "offset_ms": 7926,
+          "duration_ms": 647
+        },
+        {
+          "text": "The",
+          "offset_ms": 9059,
+          "duration_ms": 147
+        },
+        {
+          "text": "only",
+          "offset_ms": 9206,
+          "duration_ms": 279
+        },
+        {
+          "text": "moment",
+          "offset_ms": 9485,
+          "duration_ms": 353
+        },
+        {
+          "text": "you",
+          "offset_ms": 9853,
+          "duration_ms": 88
+        },
+        {
+          "text": "may",
+          "offset_ms": 9941,
+          "duration_ms": 250
+        },
+        {
+          "text": "let",
+          "offset_ms": 10191,
+          "duration_ms": 221
+        },
+        {
+          "text": "the",
+          "offset_ms": 10412,
+          "duration_ms": 103
+        },
+        {
+          "text": "picture",
+          "offset_ms": 10529,
+          "duration_ms": 441
+        },
+        {
+          "text": "go",
+          "offset_ms": 10971,
+          "duration_ms": 485
+        },
+        {
+          "text": "is",
+          "offset_ms": 11529,
+          "duration_ms": 147
+        },
+        {
+          "text": "when",
+          "offset_ms": 11676,
+          "duration_ms": 118
+        },
+        {
+          "text": "the",
+          "offset_ms": 11794,
+          "duration_ms": 74
+        },
+        {
+          "text": "central",
+          "offset_ms": 11868,
+          "duration_ms": 441
+        },
+        {
+          "text": "question",
+          "offset_ms": 12309,
+          "duration_ms": 441
+        },
+        {
+          "text": "mark",
+          "offset_ms": 12750,
+          "duration_ms": 221
+        },
+        {
+          "text": "appears",
+          "offset_ms": 12971,
+          "duration_ms": 721
+        },
+        {
+          "text": "that",
+          "offset_ms": 14206,
+          "duration_ms": 162
+        },
+        {
+          "text": "is",
+          "offset_ms": 14382,
+          "duration_ms": 88
+        },
+        {
+          "text": "when",
+          "offset_ms": 14471,
+          "duration_ms": 103
+        },
+        {
+          "text": "the",
+          "offset_ms": 14574,
+          "duration_ms": 103
+        },
+        {
+          "text": "dot",
+          "offset_ms": 14691,
+          "duration_ms": 309
+        },
+        {
+          "text": "tests",
+          "offset_ms": 15015,
+          "duration_ms": 353
+        },
+        {
+          "text": "begin",
+          "offset_ms": 15368,
+          "duration_ms": 544
+        },
+        {
+          "text": "and",
+          "offset_ms": 16412,
+          "duration_ms": 250
+        },
+        {
+          "text": "at",
+          "offset_ms": 17074,
+          "duration_ms": 118
+        },
+        {
+          "text": "that",
+          "offset_ms": 17191,
+          "duration_ms": 221
+        },
+        {
+          "text": "point",
+          "offset_ms": 17412,
+          "duration_ms": 250
+        },
+        {
+          "text": "you",
+          "offset_ms": 17662,
+          "duration_ms": 88
+        },
+        {
+          "text": "can",
+          "offset_ms": 17750,
+          "duration_ms": 88
+        },
+        {
+          "text": "drop",
+          "offset_ms": 17853,
+          "duration_ms": 397
+        },
+        {
+          "text": "the",
+          "offset_ms": 18265,
+          "duration_ms": 118
+        },
+        {
+          "text": "image",
+          "offset_ms": 18397,
+          "duration_ms": 426
+        },
+        {
+          "text": "and",
+          "offset_ms": 18838,
+          "duration_ms": 132
+        },
+        {
+          "text": "focus",
+          "offset_ms": 18971,
+          "duration_ms": 588
+        },
+        {
+          "text": "only",
+          "offset_ms": 19632,
+          "duration_ms": 294
+        },
+        {
+          "text": "on",
+          "offset_ms": 19926,
+          "duration_ms": 88
+        },
+        {
+          "text": "the",
+          "offset_ms": 20015,
+          "duration_ms": 74
+        },
+        {
+          "text": "dot",
+          "offset_ms": 20088,
+          "duration_ms": 279
+        },
+        {
+          "text": "tests",
+          "offset_ms": 20368,
+          "duration_ms": 706
+        },
+        {
+          "text": "When",
+          "offset_ms": 21559,
+          "duration_ms": 132
+        },
+        {
+          "text": "you're",
+          "offset_ms": 21691,
+          "duration_ms": 176
+        },
+        {
+          "text": "ready",
+          "offset_ms": 21882,
+          "duration_ms": 382
+        },
+        {
+          "text": "press",
+          "offset_ms": 22721,
+          "duration_ms": 338
+        },
+        {
+          "text": "Space",
+          "offset_ms": 23074,
+          "duration_ms": 515
+        },
+        {
+          "text": "to",
+          "offset_ms": 23603,
+          "duration_ms": 118
+        },
+        {
+          "text": "see",
+          "offset_ms": 23721,
+          "duration_ms": 338
+        },
+        {
+          "text": "a",
+          "offset_ms": 24132,
+          "duration_ms": 59
+        },
+        {
+          "text": "demonstration",
+          "offset_ms": 24191,
+          "duration_ms": 941
+        },
+        {
+          "text": "of",
+          "offset_ms": 25132,
+          "duration_ms": 74
+        },
+        {
+          "text": "Task",
+          "offset_ms": 25206,
+          "duration_ms": 397
+        },
+        {
+          "text": "4",
+          "offset_ms": 25603,
+          "duration_ms": 441
+        }
+      ]
+    },
     "b5a2dcd47619c5167de5c9bddb6c1c5bdedfe9bb86181252549ffdbac1492573": {
       "file": "b5a2dcd47619c5167de5c9bddb6c1c5bdedfe9bb86181252549ffdbac1492573.mp3",
       "bytes": 57312,
@@ -14569,6 +15538,364 @@
         }
       ]
     },
+    "d5ea96c8d69bff87d100fc7c8c197cad529e5ab952b61ad9caba58f69547926b": {
+      "file": "d5ea96c8d69bff87d100fc7c8c197cad529e5ab952b61ad9caba58f69547926b.mp3",
+      "bytes": 282528,
+      "chars": 346,
+      "text_preview": "One last thing. If you answer in time, the dot can turn green if you were correct, or red if you were not. This colour …",
+      "word_boundaries": [
+        {
+          "text": "One",
+          "offset_ms": 118,
+          "duration_ms": 147
+        },
+        {
+          "text": "last",
+          "offset_ms": 265,
+          "duration_ms": 309
+        },
+        {
+          "text": "thing",
+          "offset_ms": 574,
+          "duration_ms": 338
+        },
+        {
+          "text": "If",
+          "offset_ms": 1397,
+          "duration_ms": 118
+        },
+        {
+          "text": "you",
+          "offset_ms": 1515,
+          "duration_ms": 103
+        },
+        {
+          "text": "answer",
+          "offset_ms": 1618,
+          "duration_ms": 368
+        },
+        {
+          "text": "in",
+          "offset_ms": 1985,
+          "duration_ms": 103
+        },
+        {
+          "text": "time",
+          "offset_ms": 2088,
+          "duration_ms": 456
+        },
+        {
+          "text": "the",
+          "offset_ms": 3000,
+          "duration_ms": 103
+        },
+        {
+          "text": "dot",
+          "offset_ms": 3103,
+          "duration_ms": 235
+        },
+        {
+          "text": "can",
+          "offset_ms": 3338,
+          "duration_ms": 147
+        },
+        {
+          "text": "turn",
+          "offset_ms": 3500,
+          "duration_ms": 324
+        },
+        {
+          "text": "green",
+          "offset_ms": 3824,
+          "duration_ms": 456
+        },
+        {
+          "text": "if",
+          "offset_ms": 4294,
+          "duration_ms": 103
+        },
+        {
+          "text": "you",
+          "offset_ms": 4397,
+          "duration_ms": 74
+        },
+        {
+          "text": "were",
+          "offset_ms": 4471,
+          "duration_ms": 118
+        },
+        {
+          "text": "correct",
+          "offset_ms": 4588,
+          "duration_ms": 618
+        },
+        {
+          "text": "or",
+          "offset_ms": 5706,
+          "duration_ms": 176
+        },
+        {
+          "text": "red",
+          "offset_ms": 5882,
+          "duration_ms": 235
+        },
+        {
+          "text": "if",
+          "offset_ms": 6118,
+          "duration_ms": 118
+        },
+        {
+          "text": "you",
+          "offset_ms": 6250,
+          "duration_ms": 103
+        },
+        {
+          "text": "were",
+          "offset_ms": 6353,
+          "duration_ms": 88
+        },
+        {
+          "text": "not",
+          "offset_ms": 6441,
+          "duration_ms": 382
+        },
+        {
+          "text": "This",
+          "offset_ms": 7294,
+          "duration_ms": 132
+        },
+        {
+          "text": "colour",
+          "offset_ms": 7441,
+          "duration_ms": 294
+        },
+        {
+          "text": "change",
+          "offset_ms": 7735,
+          "duration_ms": 353
+        },
+        {
+          "text": "happens",
+          "offset_ms": 8088,
+          "duration_ms": 368
+        },
+        {
+          "text": "while",
+          "offset_ms": 8471,
+          "duration_ms": 206
+        },
+        {
+          "text": "the",
+          "offset_ms": 8676,
+          "duration_ms": 118
+        },
+        {
+          "text": "dot",
+          "offset_ms": 8794,
+          "duration_ms": 397
+        },
+        {
+          "text": "is",
+          "offset_ms": 9529,
+          "duration_ms": 132
+        },
+        {
+          "text": "still",
+          "offset_ms": 9662,
+          "duration_ms": 397
+        },
+        {
+          "text": "on",
+          "offset_ms": 10059,
+          "duration_ms": 103
+        },
+        {
+          "text": "the",
+          "offset_ms": 10162,
+          "duration_ms": 74
+        },
+        {
+          "text": "screen",
+          "offset_ms": 10250,
+          "duration_ms": 515
+        },
+        {
+          "text": "so",
+          "offset_ms": 11221,
+          "duration_ms": 118
+        },
+        {
+          "text": "you",
+          "offset_ms": 11338,
+          "duration_ms": 88
+        },
+        {
+          "text": "can",
+          "offset_ms": 11441,
+          "duration_ms": 162
+        },
+        {
+          "text": "learn",
+          "offset_ms": 11603,
+          "duration_ms": 221
+        },
+        {
+          "text": "from",
+          "offset_ms": 11824,
+          "duration_ms": 162
+        },
+        {
+          "text": "each",
+          "offset_ms": 11985,
+          "duration_ms": 235
+        },
+        {
+          "text": "test",
+          "offset_ms": 12235,
+          "duration_ms": 603
+        },
+        {
+          "text": "You",
+          "offset_ms": 13324,
+          "duration_ms": 74
+        },
+        {
+          "text": "will",
+          "offset_ms": 13397,
+          "duration_ms": 118
+        },
+        {
+          "text": "now",
+          "offset_ms": 13529,
+          "duration_ms": 353
+        },
+        {
+          "text": "do",
+          "offset_ms": 13882,
+          "duration_ms": 206
+        },
+        {
+          "text": "a",
+          "offset_ms": 14103,
+          "duration_ms": 44
+        },
+        {
+          "text": "short",
+          "offset_ms": 14162,
+          "duration_ms": 397
+        },
+        {
+          "text": "practice",
+          "offset_ms": 14559,
+          "duration_ms": 456
+        },
+        {
+          "text": "for",
+          "offset_ms": 15029,
+          "duration_ms": 132
+        },
+        {
+          "text": "this",
+          "offset_ms": 15176,
+          "duration_ms": 206
+        },
+        {
+          "text": "task",
+          "offset_ms": 15382,
+          "duration_ms": 544
+        },
+        {
+          "text": "before",
+          "offset_ms": 16029,
+          "duration_ms": 544
+        },
+        {
+          "text": "moving",
+          "offset_ms": 16574,
+          "duration_ms": 441
+        },
+        {
+          "text": "on",
+          "offset_ms": 17015,
+          "duration_ms": 206
+        },
+        {
+          "text": "to",
+          "offset_ms": 17221,
+          "duration_ms": 103
+        },
+        {
+          "text": "the",
+          "offset_ms": 17338,
+          "duration_ms": 74
+        },
+        {
+          "text": "next",
+          "offset_ms": 17412,
+          "duration_ms": 588
+        },
+        {
+          "text": "When",
+          "offset_ms": 18485,
+          "duration_ms": 118
+        },
+        {
+          "text": "you're",
+          "offset_ms": 18618,
+          "duration_ms": 147
+        },
+        {
+          "text": "ready",
+          "offset_ms": 18765,
+          "duration_ms": 382
+        },
+        {
+          "text": "press",
+          "offset_ms": 19691,
+          "duration_ms": 338
+        },
+        {
+          "text": "Space",
+          "offset_ms": 20044,
+          "duration_ms": 500
+        },
+        {
+          "text": "to",
+          "offset_ms": 20559,
+          "duration_ms": 103
+        },
+        {
+          "text": "see",
+          "offset_ms": 20662,
+          "duration_ms": 353
+        },
+        {
+          "text": "a",
+          "offset_ms": 21103,
+          "duration_ms": 59
+        },
+        {
+          "text": "demonstration",
+          "offset_ms": 21162,
+          "duration_ms": 971
+        },
+        {
+          "text": "of",
+          "offset_ms": 22191,
+          "duration_ms": 132
+        },
+        {
+          "text": "Task",
+          "offset_ms": 22324,
+          "duration_ms": 485
+        },
+        {
+          "text": "1",
+          "offset_ms": 22809,
+          "duration_ms": 309
+        }
+      ]
+    },
     "d7181f079fa8fc2fa453a92e6ef522d1d8d4205852a7651c7f5f0b6c5c46ebfd": {
       "file": "d7181f079fa8fc2fa453a92e6ef522d1d8d4205852a7651c7f5f0b6c5c46ebfd.mp3",
       "bytes": 262656,
@@ -14874,6 +16201,554 @@
           "text": "estimate",
           "offset_ms": 20926,
           "duration_ms": 544
+        }
+      ]
+    },
+    "d996e8fa0c32a3a8223b138cdd68fd5d8dd42729d60b036390c3f9799d585ea5": {
+      "file": "d996e8fa0c32a3a8223b138cdd68fd5d8dd42729d60b036390c3f9799d585ea5.mp3",
+      "bytes": 460224,
+      "chars": 559,
+      "text_preview": "A few more things to know. You will have 3 seconds for each star. Try to get it right rather than answer quickly, but p…",
+      "word_boundaries": [
+        {
+          "text": "A",
+          "offset_ms": 88,
+          "duration_ms": 59
+        },
+        {
+          "text": "few",
+          "offset_ms": 162,
+          "duration_ms": 162
+        },
+        {
+          "text": "more",
+          "offset_ms": 338,
+          "duration_ms": 191
+        },
+        {
+          "text": "things",
+          "offset_ms": 529,
+          "duration_ms": 338
+        },
+        {
+          "text": "to",
+          "offset_ms": 882,
+          "duration_ms": 103
+        },
+        {
+          "text": "know",
+          "offset_ms": 985,
+          "duration_ms": 397
+        },
+        {
+          "text": "You",
+          "offset_ms": 1868,
+          "duration_ms": 74
+        },
+        {
+          "text": "will",
+          "offset_ms": 1956,
+          "duration_ms": 103
+        },
+        {
+          "text": "have",
+          "offset_ms": 2059,
+          "duration_ms": 235
+        },
+        {
+          "text": "3 seconds",
+          "offset_ms": 2309,
+          "duration_ms": 1000
+        },
+        {
+          "text": "for",
+          "offset_ms": 3309,
+          "duration_ms": 162
+        },
+        {
+          "text": "each",
+          "offset_ms": 3574,
+          "duration_ms": 250
+        },
+        {
+          "text": "star",
+          "offset_ms": 3824,
+          "duration_ms": 618
+        },
+        {
+          "text": "Try",
+          "offset_ms": 4912,
+          "duration_ms": 147
+        },
+        {
+          "text": "to",
+          "offset_ms": 5074,
+          "duration_ms": 74
+        },
+        {
+          "text": "get",
+          "offset_ms": 5162,
+          "duration_ms": 162
+        },
+        {
+          "text": "it",
+          "offset_ms": 5338,
+          "duration_ms": 191
+        },
+        {
+          "text": "right",
+          "offset_ms": 5544,
+          "duration_ms": 412
+        },
+        {
+          "text": "rather",
+          "offset_ms": 6044,
+          "duration_ms": 353
+        },
+        {
+          "text": "than",
+          "offset_ms": 6397,
+          "duration_ms": 132
+        },
+        {
+          "text": "answer",
+          "offset_ms": 6529,
+          "duration_ms": 324
+        },
+        {
+          "text": "quickly",
+          "offset_ms": 6853,
+          "duration_ms": 588
+        },
+        {
+          "text": "but",
+          "offset_ms": 7765,
+          "duration_ms": 132
+        },
+        {
+          "text": "please",
+          "offset_ms": 7897,
+          "duration_ms": 324
+        },
+        {
+          "text": "don't",
+          "offset_ms": 8235,
+          "duration_ms": 265
+        },
+        {
+          "text": "take",
+          "offset_ms": 8515,
+          "duration_ms": 250
+        },
+        {
+          "text": "too",
+          "offset_ms": 8765,
+          "duration_ms": 235
+        },
+        {
+          "text": "long",
+          "offset_ms": 9000,
+          "duration_ms": 382
+        },
+        {
+          "text": "either",
+          "offset_ms": 9397,
+          "duration_ms": 500
+        },
+        {
+          "text": "If",
+          "offset_ms": 10382,
+          "duration_ms": 118
+        },
+        {
+          "text": "you",
+          "offset_ms": 10515,
+          "duration_ms": 103
+        },
+        {
+          "text": "answer",
+          "offset_ms": 10632,
+          "duration_ms": 368
+        },
+        {
+          "text": "in",
+          "offset_ms": 11000,
+          "duration_ms": 118
+        },
+        {
+          "text": "time",
+          "offset_ms": 11118,
+          "duration_ms": 515
+        },
+        {
+          "text": "the",
+          "offset_ms": 12088,
+          "duration_ms": 88
+        },
+        {
+          "text": "star",
+          "offset_ms": 12176,
+          "duration_ms": 309
+        },
+        {
+          "text": "can",
+          "offset_ms": 12485,
+          "duration_ms": 147
+        },
+        {
+          "text": "turn",
+          "offset_ms": 12632,
+          "duration_ms": 309
+        },
+        {
+          "text": "green",
+          "offset_ms": 12941,
+          "duration_ms": 603
+        },
+        {
+          "text": "if",
+          "offset_ms": 13647,
+          "duration_ms": 132
+        },
+        {
+          "text": "you",
+          "offset_ms": 13779,
+          "duration_ms": 88
+        },
+        {
+          "text": "were",
+          "offset_ms": 13868,
+          "duration_ms": 103
+        },
+        {
+          "text": "correct",
+          "offset_ms": 13971,
+          "duration_ms": 603
+        },
+        {
+          "text": "or",
+          "offset_ms": 15074,
+          "duration_ms": 191
+        },
+        {
+          "text": "red",
+          "offset_ms": 15279,
+          "duration_ms": 235
+        },
+        {
+          "text": "if",
+          "offset_ms": 15515,
+          "duration_ms": 103
+        },
+        {
+          "text": "you",
+          "offset_ms": 15618,
+          "duration_ms": 88
+        },
+        {
+          "text": "were",
+          "offset_ms": 15721,
+          "duration_ms": 103
+        },
+        {
+          "text": "not",
+          "offset_ms": 15824,
+          "duration_ms": 397
+        },
+        {
+          "text": "This",
+          "offset_ms": 16691,
+          "duration_ms": 147
+        },
+        {
+          "text": "colour",
+          "offset_ms": 16838,
+          "duration_ms": 309
+        },
+        {
+          "text": "change",
+          "offset_ms": 17147,
+          "duration_ms": 397
+        },
+        {
+          "text": "happens",
+          "offset_ms": 17544,
+          "duration_ms": 456
+        },
+        {
+          "text": "while",
+          "offset_ms": 18015,
+          "duration_ms": 132
+        },
+        {
+          "text": "the",
+          "offset_ms": 18162,
+          "duration_ms": 74
+        },
+        {
+          "text": "star",
+          "offset_ms": 18250,
+          "duration_ms": 471
+        },
+        {
+          "text": "is",
+          "offset_ms": 18735,
+          "duration_ms": 118
+        },
+        {
+          "text": "still",
+          "offset_ms": 18868,
+          "duration_ms": 324
+        },
+        {
+          "text": "on",
+          "offset_ms": 19206,
+          "duration_ms": 103
+        },
+        {
+          "text": "the",
+          "offset_ms": 19324,
+          "duration_ms": 74
+        },
+        {
+          "text": "screen",
+          "offset_ms": 19397,
+          "duration_ms": 529
+        },
+        {
+          "text": "so",
+          "offset_ms": 20368,
+          "duration_ms": 118
+        },
+        {
+          "text": "you",
+          "offset_ms": 20485,
+          "duration_ms": 103
+        },
+        {
+          "text": "can",
+          "offset_ms": 20588,
+          "duration_ms": 176
+        },
+        {
+          "text": "learn",
+          "offset_ms": 20765,
+          "duration_ms": 206
+        },
+        {
+          "text": "from",
+          "offset_ms": 20985,
+          "duration_ms": 162
+        },
+        {
+          "text": "each",
+          "offset_ms": 21147,
+          "duration_ms": 176
+        },
+        {
+          "text": "star",
+          "offset_ms": 21324,
+          "duration_ms": 559
+        },
+        {
+          "text": "Be",
+          "offset_ms": 22338,
+          "duration_ms": 132
+        },
+        {
+          "text": "honest",
+          "offset_ms": 22471,
+          "duration_ms": 441
+        },
+        {
+          "text": "about",
+          "offset_ms": 22926,
+          "duration_ms": 338
+        },
+        {
+          "text": "what",
+          "offset_ms": 23265,
+          "duration_ms": 176
+        },
+        {
+          "text": "you",
+          "offset_ms": 23441,
+          "duration_ms": 191
+        },
+        {
+          "text": "actually",
+          "offset_ms": 23735,
+          "duration_ms": 544
+        },
+        {
+          "text": "see",
+          "offset_ms": 24294,
+          "duration_ms": 515
+        },
+        {
+          "text": "in",
+          "offset_ms": 24809,
+          "duration_ms": 103
+        },
+        {
+          "text": "your",
+          "offset_ms": 24926,
+          "duration_ms": 118
+        },
+        {
+          "text": "mind",
+          "offset_ms": 25059,
+          "duration_ms": 500
+        },
+        {
+          "text": "If",
+          "offset_ms": 26029,
+          "duration_ms": 103
+        },
+        {
+          "text": "your",
+          "offset_ms": 26132,
+          "duration_ms": 103
+        },
+        {
+          "text": "picture",
+          "offset_ms": 26235,
+          "duration_ms": 544
+        },
+        {
+          "text": "is",
+          "offset_ms": 26779,
+          "duration_ms": 147
+        },
+        {
+          "text": "fuzzy",
+          "offset_ms": 26926,
+          "duration_ms": 779
+        },
+        {
+          "text": "just",
+          "offset_ms": 28029,
+          "duration_ms": 191
+        },
+        {
+          "text": "do",
+          "offset_ms": 28221,
+          "duration_ms": 88
+        },
+        {
+          "text": "your",
+          "offset_ms": 28309,
+          "duration_ms": 162
+        },
+        {
+          "text": "best",
+          "offset_ms": 28471,
+          "duration_ms": 721
+        },
+        {
+          "text": "there",
+          "offset_ms": 29515,
+          "duration_ms": 132
+        },
+        {
+          "text": "is",
+          "offset_ms": 29647,
+          "duration_ms": 103
+        },
+        {
+          "text": "no",
+          "offset_ms": 29750,
+          "duration_ms": 294
+        },
+        {
+          "text": "expectation",
+          "offset_ms": 30044,
+          "duration_ms": 779
+        },
+        {
+          "text": "of",
+          "offset_ms": 30824,
+          "duration_ms": 59
+        },
+        {
+          "text": "a",
+          "offset_ms": 30882,
+          "duration_ms": 59
+        },
+        {
+          "text": "perfect",
+          "offset_ms": 30941,
+          "duration_ms": 662
+        },
+        {
+          "text": "mental",
+          "offset_ms": 31618,
+          "duration_ms": 279
+        },
+        {
+          "text": "picture",
+          "offset_ms": 31897,
+          "duration_ms": 618
+        },
+        {
+          "text": "When",
+          "offset_ms": 33000,
+          "duration_ms": 118
+        },
+        {
+          "text": "you're",
+          "offset_ms": 33118,
+          "duration_ms": 132
+        },
+        {
+          "text": "ready",
+          "offset_ms": 33250,
+          "duration_ms": 353
+        },
+        {
+          "text": "press",
+          "offset_ms": 33926,
+          "duration_ms": 353
+        },
+        {
+          "text": "Space",
+          "offset_ms": 34294,
+          "duration_ms": 574
+        },
+        {
+          "text": "to",
+          "offset_ms": 34941,
+          "duration_ms": 103
+        },
+        {
+          "text": "see",
+          "offset_ms": 35059,
+          "duration_ms": 397
+        },
+        {
+          "text": "a",
+          "offset_ms": 35574,
+          "duration_ms": 59
+        },
+        {
+          "text": "demonstration",
+          "offset_ms": 35632,
+          "duration_ms": 1000
+        },
+        {
+          "text": "of",
+          "offset_ms": 36779,
+          "duration_ms": 118
+        },
+        {
+          "text": "Task",
+          "offset_ms": 36912,
+          "duration_ms": 471
+        },
+        {
+          "text": "3",
+          "offset_ms": 37382,
+          "duration_ms": 559
         }
       ]
     },
