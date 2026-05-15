@@ -10,20 +10,20 @@ import{H as p,d as h,e as y,f as g,h as f,u as w,j as v,k as _}from"./index-Bz6d
       <div style="width: ${i}%; height: 100%; background: #34d399; transition: width 0.2s;"></div>
     </div>
   `}function R(e){return`
-    <div style="color: #34d399;">✓ Saved (${e.uploadedRows} rows in ${e.uploadedChunks} chunks).</div>
+    <div style="color: #0a7c4d;">✓ Saved (${e.uploadedRows} rows in ${e.uploadedChunks} chunks).</div>
     <div style="margin-top: 0.75rem; opacity: 0.8;">Press <kbd>Space</kbd> to continue.</div>
   `}function C(){return`
-    <div style="color: #34d399;">✓ Already saved.</div>
+    <div style="color: #0a7c4d;">✓ Already saved.</div>
     <div style="margin-top: 0.75rem; opacity: 0.8;">Press <kbd>Space</kbd> to continue.</div>
   `}function E(e,o){return`
-    ${e.status==="no_endpoint"?'<div style="color: #fbbf24;">No upload server configured for this build.</div>':`<div style="color: #fbbf24;">Upload incomplete (${e.uploadedChunks} / ${e.totalChunks} chunks). Saved a copy to your device.</div>`}
+    ${e.status==="no_endpoint"?'<div style="color: #8a6d00;">No upload server configured for this build.</div>':`<div style="color: #8a6d00;">Upload incomplete (${e.uploadedChunks} / ${e.totalChunks} chunks). Saved a copy to your device.</div>`}
     <div style="margin-top: 0.5rem; opacity: 0.85;">
       A file <code>${o.filename}</code> (${(o.sizeBytes/1024).toFixed(1)} KB) has been
       downloaded. Please email it to the experimenter if asked.
     </div>
     <div style="margin-top: 0.75rem; opacity: 0.8;">Press <kbd>Space</kbd> to continue.</div>
   `}function m(e){return`
-    <div style="color: #f87171;">Something went wrong: ${u(e)}</div>
+    <div style="color: #b3261e;">Something went wrong: ${u(e)}</div>
     <div style="margin-top: 0.75rem; opacity: 0.8;">Press <kbd>Space</kbd> to continue.</div>
   `}function u(e){return String(e).replace(/[&<>"']/g,o=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[o])}function A({redirectDelayMs:e}={}){const o=e??k;return{type:p,stimulus:'<div id="completion-mount" style="display: grid; place-items: center; gap: 1rem; max-width: 36rem; margin: 0 auto;">Loading…</div>',choices:[" "],trial_duration:null,on_load:async function(){const i=document.getElementById("completion-mount");if(!i)return;const a=await h()??y();if(g(a)||!a){i.innerHTML=T(a),window.__completionRedirectAt=null;return}let t=Math.ceil(o/1e3);i.innerHTML=$(a,t);const s=setInterval(()=>{if(t-=1,t<=0){clearInterval(s),window.location.href=a;return}const d=document.getElementById("completion-countdown");d&&(d.textContent=String(t))},b);window.__completionRedirectAt=a},on_finish:i=>{i.completion_redirect_url=window.__completionRedirectAt??null,i.completion_was_placeholder=!window.__completionRedirectAt},data:{phase:"completion_redirect"}}}function T(e){return`
     <h2 style="margin: 0;">You're done — thank you!</h2>
@@ -40,4 +40,4 @@ import{H as p,d as h,e as y,f as g,h as f,u as w,j as v,k as _}from"./index-Bz6d
       If the redirect doesn't happen, <a href="${u(e)}" style="color: #60a5fa;">click here</a>.
     </p>
   `}export{A as c,I as u};
-//# sourceMappingURL=debrief-DfHPYObw.js.map
+//# sourceMappingURL=debrief-pGFuma2H.js.map
