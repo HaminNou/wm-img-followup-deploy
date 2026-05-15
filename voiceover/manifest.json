@@ -3,7 +3,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "model": "edge-tts",
   "rate": "-15%",
-  "rendered_at": "2026-05-15T05:13:10.524Z",
+  "rendered_at": "2026-05-15T05:32:33.534Z",
   "entries": {
     "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d": {
       "file": "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d.mp3",
@@ -1997,6 +1997,84 @@
           "text": "listen",
           "offset_ms": 16015,
           "duration_ms": 471
+        }
+      ]
+    },
+    "11dd707caa2ea91fa877270466dcb8aa30fc017b083e28d1c0e646fc7ebac261": {
+      "file": "11dd707caa2ea91fa877270466dcb8aa30fc017b083e28d1c0e646fc7ebac261.mp3",
+      "bytes": 48096,
+      "chars": 58,
+      "text_preview": "Test 2 of 3: was that tone one of the ones you just heard?",
+      "word_boundaries": [
+        {
+          "text": "Test",
+          "offset_ms": 118,
+          "duration_ms": 279
+        },
+        {
+          "text": "2",
+          "offset_ms": 412,
+          "duration_ms": 221
+        },
+        {
+          "text": "of",
+          "offset_ms": 632,
+          "duration_ms": 103
+        },
+        {
+          "text": "3",
+          "offset_ms": 735,
+          "duration_ms": 441
+        },
+        {
+          "text": "was",
+          "offset_ms": 1779,
+          "duration_ms": 132
+        },
+        {
+          "text": "that",
+          "offset_ms": 1912,
+          "duration_ms": 221
+        },
+        {
+          "text": "tone",
+          "offset_ms": 2132,
+          "duration_ms": 368
+        },
+        {
+          "text": "one",
+          "offset_ms": 2500,
+          "duration_ms": 132
+        },
+        {
+          "text": "of",
+          "offset_ms": 2632,
+          "duration_ms": 44
+        },
+        {
+          "text": "the",
+          "offset_ms": 2691,
+          "duration_ms": 74
+        },
+        {
+          "text": "ones",
+          "offset_ms": 2779,
+          "duration_ms": 221
+        },
+        {
+          "text": "you",
+          "offset_ms": 3000,
+          "duration_ms": 74
+        },
+        {
+          "text": "just",
+          "offset_ms": 3074,
+          "duration_ms": 235
+        },
+        {
+          "text": "heard",
+          "offset_ms": 3324,
+          "duration_ms": 265
         }
       ]
     },
@@ -9598,6 +9676,89 @@
         }
       ]
     },
+    "6a51155c26a67a3bc264ef89f158761e45ff8b5a66192453c11ac19905411eb8": {
+      "file": "6a51155c26a67a3bc264ef89f158761e45ff8b5a66192453c11ac19905411eb8.mp3",
+      "bytes": 53856,
+      "chars": 63,
+      "text_preview": "Tone test 3 of 3: was that tone one of the ones you just heard?",
+      "word_boundaries": [
+        {
+          "text": "Tone",
+          "offset_ms": 118,
+          "duration_ms": 353
+        },
+        {
+          "text": "test",
+          "offset_ms": 471,
+          "duration_ms": 397
+        },
+        {
+          "text": "3",
+          "offset_ms": 868,
+          "duration_ms": 250
+        },
+        {
+          "text": "of",
+          "offset_ms": 1118,
+          "duration_ms": 88
+        },
+        {
+          "text": "3",
+          "offset_ms": 1206,
+          "duration_ms": 441
+        },
+        {
+          "text": "was",
+          "offset_ms": 2309,
+          "duration_ms": 132
+        },
+        {
+          "text": "that",
+          "offset_ms": 2456,
+          "duration_ms": 221
+        },
+        {
+          "text": "tone",
+          "offset_ms": 2691,
+          "duration_ms": 338
+        },
+        {
+          "text": "one",
+          "offset_ms": 3029,
+          "duration_ms": 103
+        },
+        {
+          "text": "of",
+          "offset_ms": 3132,
+          "duration_ms": 44
+        },
+        {
+          "text": "the",
+          "offset_ms": 3191,
+          "duration_ms": 74
+        },
+        {
+          "text": "ones",
+          "offset_ms": 3265,
+          "duration_ms": 206
+        },
+        {
+          "text": "you",
+          "offset_ms": 3471,
+          "duration_ms": 74
+        },
+        {
+          "text": "just",
+          "offset_ms": 3544,
+          "duration_ms": 235
+        },
+        {
+          "text": "heard",
+          "offset_ms": 3779,
+          "duration_ms": 279
+        }
+      ]
+    },
     "6d1debc0a12b6c939dd54183fa2658561315a3907ffa6bc151b793180db16808": {
       "file": "6d1debc0a12b6c939dd54183fa2658561315a3907ffa6bc151b793180db16808.mp3",
       "bytes": 53568,
@@ -10995,6 +11156,89 @@
           "text": "location",
           "offset_ms": 2618,
           "duration_ms": 721
+        }
+      ]
+    },
+    "85851c25790016e87d73c1f2789c7336556bb950209016391a3e3670b2e5b837": {
+      "file": "85851c25790016e87d73c1f2789c7336556bb950209016391a3e3670b2e5b837.mp3",
+      "bytes": 55296,
+      "chars": 63,
+      "text_preview": "Tone test 2 of 3: was that tone one of the ones you just heard?",
+      "word_boundaries": [
+        {
+          "text": "Tone",
+          "offset_ms": 118,
+          "duration_ms": 397
+        },
+        {
+          "text": "test",
+          "offset_ms": 515,
+          "duration_ms": 412
+        },
+        {
+          "text": "2",
+          "offset_ms": 941,
+          "duration_ms": 221
+        },
+        {
+          "text": "of",
+          "offset_ms": 1176,
+          "duration_ms": 103
+        },
+        {
+          "text": "3",
+          "offset_ms": 1279,
+          "duration_ms": 441
+        },
+        {
+          "text": "was",
+          "offset_ms": 2338,
+          "duration_ms": 147
+        },
+        {
+          "text": "that",
+          "offset_ms": 2485,
+          "duration_ms": 206
+        },
+        {
+          "text": "tone",
+          "offset_ms": 2691,
+          "duration_ms": 412
+        },
+        {
+          "text": "one",
+          "offset_ms": 3118,
+          "duration_ms": 132
+        },
+        {
+          "text": "of",
+          "offset_ms": 3250,
+          "duration_ms": 44
+        },
+        {
+          "text": "the",
+          "offset_ms": 3294,
+          "duration_ms": 74
+        },
+        {
+          "text": "ones",
+          "offset_ms": 3368,
+          "duration_ms": 250
+        },
+        {
+          "text": "you",
+          "offset_ms": 3618,
+          "duration_ms": 74
+        },
+        {
+          "text": "just",
+          "offset_ms": 3691,
+          "duration_ms": 235
+        },
+        {
+          "text": "heard",
+          "offset_ms": 3926,
+          "duration_ms": 265
         }
       ]
     },
@@ -15646,6 +15890,84 @@
         }
       ]
     },
+    "a564bd6c679484fe070582dc782e67573da63121877ffb58270b30a6c9e2a401": {
+      "file": "a564bd6c679484fe070582dc782e67573da63121877ffb58270b30a6c9e2a401.mp3",
+      "bytes": 45792,
+      "chars": 58,
+      "text_preview": "Test 1 of 3: was that tone one of the ones you just heard?",
+      "word_boundaries": [
+        {
+          "text": "Test",
+          "offset_ms": 103,
+          "duration_ms": 279
+        },
+        {
+          "text": "1",
+          "offset_ms": 397,
+          "duration_ms": 103
+        },
+        {
+          "text": "of",
+          "offset_ms": 515,
+          "duration_ms": 74
+        },
+        {
+          "text": "3",
+          "offset_ms": 588,
+          "duration_ms": 441
+        },
+        {
+          "text": "was",
+          "offset_ms": 1647,
+          "duration_ms": 132
+        },
+        {
+          "text": "that",
+          "offset_ms": 1779,
+          "duration_ms": 221
+        },
+        {
+          "text": "tone",
+          "offset_ms": 2000,
+          "duration_ms": 353
+        },
+        {
+          "text": "one",
+          "offset_ms": 2368,
+          "duration_ms": 118
+        },
+        {
+          "text": "of",
+          "offset_ms": 2485,
+          "duration_ms": 44
+        },
+        {
+          "text": "the",
+          "offset_ms": 2529,
+          "duration_ms": 74
+        },
+        {
+          "text": "ones",
+          "offset_ms": 2603,
+          "duration_ms": 221
+        },
+        {
+          "text": "you",
+          "offset_ms": 2824,
+          "duration_ms": 74
+        },
+        {
+          "text": "just",
+          "offset_ms": 2897,
+          "duration_ms": 206
+        },
+        {
+          "text": "heard",
+          "offset_ms": 3103,
+          "duration_ms": 294
+        }
+      ]
+    },
     "a8c4724cb0578d61d733c20bdc749a4afd312d31084b0fec0b1b3fe060861743": {
       "file": "a8c4724cb0578d61d733c20bdc749a4afd312d31084b0fec0b1b3fe060861743.mp3",
       "bytes": 255456,
@@ -20003,6 +20325,84 @@
         }
       ]
     },
+    "cca82dc72f71f2e188de01052838f2b8e2904adde0daa3177ea4523e70731d9d": {
+      "file": "cca82dc72f71f2e188de01052838f2b8e2904adde0daa3177ea4523e70731d9d.mp3",
+      "bytes": 50400,
+      "chars": 58,
+      "text_preview": "Test 3 of 3: was that tone one of the ones you just heard?",
+      "word_boundaries": [
+        {
+          "text": "Test",
+          "offset_ms": 118,
+          "duration_ms": 338
+        },
+        {
+          "text": "3",
+          "offset_ms": 456,
+          "duration_ms": 368
+        },
+        {
+          "text": "of",
+          "offset_ms": 824,
+          "duration_ms": 118
+        },
+        {
+          "text": "3",
+          "offset_ms": 941,
+          "duration_ms": 426
+        },
+        {
+          "text": "was",
+          "offset_ms": 1971,
+          "duration_ms": 147
+        },
+        {
+          "text": "that",
+          "offset_ms": 2118,
+          "duration_ms": 206
+        },
+        {
+          "text": "tone",
+          "offset_ms": 2324,
+          "duration_ms": 368
+        },
+        {
+          "text": "one",
+          "offset_ms": 2691,
+          "duration_ms": 118
+        },
+        {
+          "text": "of",
+          "offset_ms": 2809,
+          "duration_ms": 44
+        },
+        {
+          "text": "the",
+          "offset_ms": 2853,
+          "duration_ms": 74
+        },
+        {
+          "text": "ones",
+          "offset_ms": 2926,
+          "duration_ms": 221
+        },
+        {
+          "text": "you",
+          "offset_ms": 3147,
+          "duration_ms": 88
+        },
+        {
+          "text": "just",
+          "offset_ms": 3235,
+          "duration_ms": 235
+        },
+        {
+          "text": "heard",
+          "offset_ms": 3471,
+          "duration_ms": 324
+        }
+      ]
+    },
     "cd5d394f98fc5bc14a410e4a76d74db6b1d776e9f068f4467765af1ca84f4276": {
       "file": "cd5d394f98fc5bc14a410e4a76d74db6b1d776e9f068f4467765af1ca84f4276.mp3",
       "bytes": 114336,
@@ -22102,6 +22502,89 @@
           "text": "continue",
           "offset_ms": 21926,
           "duration_ms": 721
+        }
+      ]
+    },
+    "dbcde54978f5fa3188f0341f4a38d482e16e70996a2caf7407c5d149203a929d": {
+      "file": "dbcde54978f5fa3188f0341f4a38d482e16e70996a2caf7407c5d149203a929d.mp3",
+      "bytes": 51552,
+      "chars": 63,
+      "text_preview": "Tone test 1 of 3: was that tone one of the ones you just heard?",
+      "word_boundaries": [
+        {
+          "text": "Tone",
+          "offset_ms": 118,
+          "duration_ms": 338
+        },
+        {
+          "text": "test",
+          "offset_ms": 456,
+          "duration_ms": 382
+        },
+        {
+          "text": "1",
+          "offset_ms": 838,
+          "duration_ms": 103
+        },
+        {
+          "text": "of",
+          "offset_ms": 941,
+          "duration_ms": 74
+        },
+        {
+          "text": "3",
+          "offset_ms": 1015,
+          "duration_ms": 426
+        },
+        {
+          "text": "was",
+          "offset_ms": 2029,
+          "duration_ms": 118
+        },
+        {
+          "text": "that",
+          "offset_ms": 2147,
+          "duration_ms": 191
+        },
+        {
+          "text": "tone",
+          "offset_ms": 2353,
+          "duration_ms": 368
+        },
+        {
+          "text": "one",
+          "offset_ms": 2735,
+          "duration_ms": 132
+        },
+        {
+          "text": "of",
+          "offset_ms": 2868,
+          "duration_ms": 44
+        },
+        {
+          "text": "the",
+          "offset_ms": 2912,
+          "duration_ms": 88
+        },
+        {
+          "text": "ones",
+          "offset_ms": 3000,
+          "duration_ms": 250
+        },
+        {
+          "text": "you",
+          "offset_ms": 3250,
+          "duration_ms": 74
+        },
+        {
+          "text": "just",
+          "offset_ms": 3324,
+          "duration_ms": 265
+        },
+        {
+          "text": "heard",
+          "offset_ms": 3588,
+          "duration_ms": 279
         }
       ]
     },
