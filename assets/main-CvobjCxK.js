@@ -327,7 +327,7 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as it,r as st,H as 
   min-height: 0;
   width: 100%;
 `.replace(/\s+/g," ").trim();function wt({title:t,body:e,narration:n}){const o=typeof n=="string"&&n.trim()?` data-voiceover-script="${_t(n.trim())}"`:"";return`
-    <div style="${bt}">
+    <div style="${bt} min-height: auto;">
       <div style="${Ne}">
         <h2 style="${Le}">${t}</h2>
       </div>
@@ -1050,4 +1050,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as it,r as st,H as 
         <p><small>Error reference: <code>${t&&t.message||"unknown"}</code></small></p>
       </div>
     `});
-//# sourceMappingURL=main-Nw2mg6EM.js.map
+//# sourceMappingURL=main-CvobjCxK.js.map
