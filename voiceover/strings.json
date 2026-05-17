@@ -404,6 +404,10 @@
     "source": "volume.speakerVolumeInstructionTrial.stimulus#0"
   },
   {
+    "text": "Thank you for completing the trials. Your work is enormously helpful to our research, and we are grateful for your time and attention. A couple of short questionnaires are next. Once you finish them, your data will be saved and you will be returned to Prolific. Press Space to continue.",
+    "source": "runner-intros.endOfTaskIntroNode.stimulus#0"
+  },
+  {
     "text": "Step 1 of 3 — Here is the pattern. Picture it in your mind.",
     "source": "demos.caption0"
   },
