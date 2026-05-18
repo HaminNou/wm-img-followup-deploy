@@ -160,6 +160,10 @@
     "source": "demos.caption59"
   },
   {
+    "text": "You have 3 seconds for each test. If you answer in time, the central question mark turns green for correct or red for incorrect. Please make sure your audio volume is still at the level you set earlier.",
+    "source": "memory.tOnlyInstructionNode.page2#0:script"
+  },
+  {
     "text": "Next, let's set up your hands. Throughout the study you will respond with the two horizontal arrow keys on your keyboard, the left arrow and the right arrow. The demonstrations will label them No or Yes, and Not on-pattern or On-pattern. How you place your hands matters. Use both hands, and only your index fingers. Place one index finger on each of the two horizontal arrow keys, one finger per hand. Keep them resting on those two keys throughout the study. Do not use two fingers of the same hand — one index finger per hand, on its own response key. When both index fingers are resting on the two response keys, click the button below to continue.",
     "source": "viewing-distance.viewingDistanceTrial.timeline[1].stimulus#0:script"
   },
@@ -256,6 +260,10 @@
     "source": "demos.caption20"
   },
   {
+    "text": "You have 3 seconds for each test. Aim for accuracy first, but don't dwell. If you answer in time, the dot turns green for correct or red for incorrect while it is still on screen.",
+    "source": "memory.dOnlyInstructionNode.page2#0:script"
+  },
+  {
     "text": "Tone test 2 of 3: was that tone one of the ones you just heard?",
     "source": "demos.caption59"
   },
@@ -272,8 +280,16 @@
     "source": "demos.caption46"
   },
   {
+    "text": "Very important: keep the picture of the rotated pattern in mind during the entire trial. You may drop it only when the central question mark appears — that is when the dot tests begin.",
+    "source": "dual.iDInstructionNode.page3#0:script"
+  },
+  {
     "text": "We chose No — that was incorrect; the correct answer was Yes, so the question mark turns red.",
     "source": "demos.caption67"
+  },
+  {
+    "text": "You have 3 seconds for each star. Aim for accuracy first, but don't dwell. If you answer in time, the star turns green for correct or red for incorrect while it is still on screen. Be honest about your mental picture — if it's fuzzy, just do your best.",
+    "source": "imagery.iOnlyInstructionNode.page3#0:script"
   },
   {
     "text": "One quick reminder. Please make sure your audio volume is still at the level you set earlier. When you're ready, press Space to see a demonstration of Task 2.",
@@ -454,6 +470,10 @@
   {
     "text": "The question mark means the dot tests begin. You may let the picture go and focus on the dots.",
     "source": "demos.caption51"
+  },
+  {
+    "text": "Very important: keep the picture of the rotated pattern in mind during the entire trial. You may drop it only when the central question mark appears — that is when the tone tests begin. Please make sure your audio volume is still at the level you set earlier.",
+    "source": "dual.iTInstructionNode.page3#0:script"
   },
   {
     "text": "Last tone — keep remembering each one.",
