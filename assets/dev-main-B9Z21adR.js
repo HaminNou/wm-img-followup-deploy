@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill-B5Qt9EMX.js";import{i as a,b as d,c as r,a as l,H as i}from"./index-D84Ls8co.js";import{c as p}from"./config-DmeTTinz.js";import{m as c,r as m}from"./main-blocks-COusPVmW.js";import"./pattern-8GUrvjHu.js";const e=a(),h=d(),o=r({display_element:void 0,on_data_update:t=>{l(t).catch(s=>{console.error("[dev-main] storage append failed",s)})},on_finish:()=>{o.data.get().addProperties({session_id:e.params.session_id,prolific_pid:e.params.prolific_pid,study_id:e.params.study_id,is_preview:e.params.is_preview,is_pilot_run:e.is_pilot_run,pilot_label:e.pilot_label,prng_seed_uint32:e.prng_seed_uint32,schema_version:e.schema_version,build_id:e.build_id,dev_entry:"dev-main"}),console.info("[dev-main] session finished",e),console.info("[dev-main] data accessible at window.jsPsych.data.get()")}});window.jsPsych=o;const y={type:i,stimulus:`
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{i as a,b as d,c as r,a as l,H as i}from"./index-D84Ls8co.js";import{c as p}from"./config-DmeTTinz.js";import{q as c,r as m}from"./main-blocks-B00PDtMc.js";import"./pattern-8GUrvjHu.js";const e=a(),h=d(),o=r({display_element:void 0,on_data_update:t=>{l(t).catch(s=>{console.error("[dev-main] storage append failed",s)})},on_finish:()=>{o.data.get().addProperties({session_id:e.params.session_id,prolific_pid:e.params.prolific_pid,study_id:e.params.study_id,is_preview:e.params.is_preview,is_pilot_run:e.is_pilot_run,pilot_label:e.pilot_label,prng_seed_uint32:e.prng_seed_uint32,schema_version:e.schema_version,build_id:e.build_id,dev_entry:"dev-main"}),console.info("[dev-main] session finished",e),console.info("[dev-main] data accessible at window.jsPsych.data.get()")}});window.jsPsych=o;const y={type:i,stimulus:`
     <div style="max-width: 36rem; margin: 0 auto; text-align: left;">
       <h2 style="text-align: center;">DEV — Main blocks preview</h2>
       <p>This is a developer-only entry for inspecting the main experimental
@@ -39,4 +39,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{i as a,b as d,c as r,a as l,
       <p>Press <kbd>Space</kbd> to close.</p>
     </div>
   `,choices:[" "],data:{phase:"dev_main_end"}},n=c(),v=[y,u,...n.mainA.nodes,m({durationS:5,blockLabel:"dev_inter_block"}),_,...n.mainB.nodes,b];h.then(()=>o.run(v));
-//# sourceMappingURL=dev-main-B6R_2v2w.js.map
+//# sourceMappingURL=dev-main-B9Z21adR.js.map
