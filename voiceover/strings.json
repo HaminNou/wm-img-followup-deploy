@@ -56,7 +56,7 @@
     "source": "runner-intros.mainBIntroNode.stimulus#0"
   },
   {
-    "text": "Would you like to watch the demonstration again? (this is the last replay you can request) Click the button below to watch it again. When you are ready to start the practice, press the Space key.",
+    "text": "Would you like to watch the demonstration again? (this is the last replay you can request) Click the button below to watch it again.",
     "source": "demos.caption56"
   },
   {
@@ -196,7 +196,7 @@
     "source": "imagery.iOnlyInstructionNode.page3#0:script"
   },
   {
-    "text": "Would you like to watch the demonstration again? (you can watch up to 3 more times) Click the button below to watch it again. When you are ready to start the practice, press the Space key.",
+    "text": "Would you like to watch the demonstration again? (you can watch up to 3 more times) Click the button below to watch it again.",
     "source": "demos.caption58"
   },
   {
@@ -304,7 +304,7 @@
     "source": "memory.tOnlyInstructionNode.page2#0:script"
   },
   {
-    "text": "Would you like to watch the demonstration again? (you can watch up to 2 more times) Press Yes (or click the button below) to watch it again. When you are ready to start the practice, press the Space key.",
+    "text": "Would you like to watch the demonstration again? (you can watch up to 2 more times) Click the button below to watch it again.",
     "source": "demos.caption57"
   },
   {
@@ -492,7 +492,7 @@
     "source": "demos.caption16"
   },
   {
-    "text": "Would you like to watch the demonstration again? (you can watch up to 2 more times) Click the button below to watch it again. When you are ready to start the practice, press the Space key.",
+    "text": "Would you like to watch the demonstration again? (you can watch up to 2 more times) Click the button below to watch it again.",
     "source": "demos.caption57"
   },
   {
@@ -560,7 +560,7 @@
     "source": "demos.caption58"
   },
   {
-    "text": "Would you like to watch the demonstration again? (this is the last replay you can request) Press Yes (or click the button below) to watch it again. When you are ready to start the practice, press the Space key.",
+    "text": "Would you like to watch the demonstration again? (this is the last replay you can request) Click the button below to watch it again.",
     "source": "demos.caption56"
   },
   {
@@ -580,7 +580,7 @@
     "source": "demos.caption60"
   },
   {
-    "text": "Would you like to watch the demonstration again? (you can watch up to 3 more times) Press Yes (or click the button below) to watch it again. When you are ready to start the practice, press the Space key.",
+    "text": "Would you like to watch the demonstration again? (you can watch up to 3 more times) Click the button below to watch it again.",
     "source": "demos.caption58"
   },
   {
