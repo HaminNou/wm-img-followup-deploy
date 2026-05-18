@@ -296,9 +296,15 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as dt,r as ut,H as 
   <h2>Display check</h2>
   <div data-voiceover-target style="max-width: 38rem; margin: 0 auto 1.25rem;">
     <p>
-      Does the panel around this text look like a uniform <strong>light gray</strong>?
-      If it looks darkened or hard to read, you can force the experiment back
-      to light mode.
+      To make sure the experiment looks the same on every participant's
+      screen, please <strong>lock the display to light mode</strong> by
+      clicking the button below. The lock stays engaged for the rest of
+      the session.
+    </p>
+    <p style="font-size: 0.95rem; color: rgba(0, 0, 0, 0.7);">
+      The panel around this text should look like a uniform
+      <strong>light gray</strong>. If it looks darkened or hard to read,
+      locking light mode will restore it.
     </p>
   </div>
   <div id="display-mode-check-footer" style="margin: 1.5rem auto 0; max-width: 38rem; text-align: center;">
@@ -311,7 +317,13 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as dt,r as ut,H as 
       ✓ Display set to light mode
     </span>
   </div>
-`;function _t(){const t={type:P,stimulus:eo,choices:["Continue"],on_load:()=>{const e=document.getElementById("display-colour-lock-btn"),n=document.getElementById("display-colour-lock-status"),o=()=>{!e||!n||(e.disabled=!0,e.style.opacity="0.55",e.style.cursor="default",e.textContent="Light mode forced",n.style.display="inline")};Oe()?o():e&&e.addEventListener("click",()=>{Zn(),o()})},on_finish:e=>{e.display_colour_locked=Oe()},data:{phase:"display_mode_check"}};return v(Je,_t),b(t,Je)}const to=85.6,Pe=1.5,je=12,no=100,oo=1100,pe=320,ro=2,Xe="screen_calibration",Qe="screen_calibration_retry_hint",ao=`
+  <p id="display-mode-gate-hint" role="status" aria-live="polite"
+     style="margin: 1.25rem auto 0; max-width: 38rem; text-align: center;
+            font-size: 0.95rem; color: rgba(0, 0, 0, 0.65);">
+    Click <strong>Force light mode</strong> above to enable
+    <strong>Continue</strong>.
+  </p>
+`;function _t(){const t={type:P,stimulus:eo,choices:["Continue"],button_html:(e,n)=>`<button class="jspsych-btn" data-idx="${n}" disabled aria-disabled="true" style="opacity: 0.55; cursor: not-allowed;">${e}</button>`,on_load:()=>{const e=document.getElementById("display-colour-lock-btn"),n=document.getElementById("display-colour-lock-status"),o=document.getElementById("display-mode-gate-hint"),r=document.querySelector('button.jspsych-btn[data-idx="0"]'),a=()=>{r&&(r.disabled=!1,r.setAttribute("aria-disabled","false"),r.style.opacity="",r.style.cursor=""),o&&(o.style.display="none")},s=()=>{e&&(e.disabled=!0,e.setAttribute("aria-disabled","true"),e.style.opacity="0.55",e.style.cursor="default",e.textContent="Light mode forced"),n&&(n.style.display="inline"),a(),r&&typeof r.focus=="function"&&r.focus()};Oe()?s():e&&e.addEventListener("click",()=>{Zn(),s()})},on_finish:e=>{e.display_colour_locked=Oe()},data:{phase:"display_mode_check"}};return v(Je,_t),b(t,Je)}const to=85.6,Pe=1.5,je=12,no=100,oo=1100,pe=320,ro=2,Xe="screen_calibration",Qe="screen_calibration_retry_hint",ao=`
   <h2>Calibrate the screen</h2>
   <p data-voiceover-target style="max-width: 38rem; margin: 0 auto 1rem;">
     Hold a <strong>credit card</strong> against your screen. Use the slider
@@ -1188,4 +1200,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,a as dt,r as ut,H as 
         <p><small>Error reference: <code>${t&&t.message||"unknown"}</code></small></p>
       </div>
     `});
-//# sourceMappingURL=main-B8K4XUYD.js.map
+//# sourceMappingURL=main-wDI35i-f.js.map
