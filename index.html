@@ -4,6 +4,20 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex,nofollow" />
+    <!-- Lock the experiment to a light colour scheme. Without this, browsers
+         that apply automatic dark-mode adjustments (Chrome's Auto Dark Theme
+         on Android/Chromebook, Edge's "Force dark mode for web contents",
+         user agents honouring `prefers-color-scheme: dark`) repaint our
+         #D3D3D3 surface and #FFFFFF trial pages darker than designed —
+         which destroys the contrast between the inked-black rotation
+         arrow and the trial background and undermines stimulus-fidelity
+         calibration we did offline. `<meta name="color-scheme">` + the
+         matching `color-scheme: light only` CSS declaration tell every
+         modern browser "this page is a designed light surface; do not
+         auto-darken." A manual escape hatch on the screen-calibration
+         step ('Force light mode') covers the rare residual case where
+         a kiosk profile or user stylesheet still overrides this. -->
+    <meta name="color-scheme" content="light" />
     <title>WM × Imagery × Auditory Memory — Follow-Up Experiment</title>
     <link rel="icon" href="data:," />
     <link
@@ -14,6 +28,11 @@
       :root {
         /* Set by screen-calibration step (Step 3); 1 mm = ~3.7795 px at 96 dpi as a temporary default. */
         --mm: 3.7795px;
+        /* See `<meta name="color-scheme">` in the head — pair declaration so
+         * the lock applies even to browsers that ignore the meta tag. The
+         * `only` keyword (vs bare `light`) is what prevents Chrome's Auto
+         * Dark Theme from forcing dark mode anyway. */
+        color-scheme: light only;
       }
       html,
       body {
@@ -102,6 +121,50 @@
       html[data-trial-bg='white'] .trial-start-hint,
       html[data-trial-bg='gray'] .trial-start-hint {
         color: rgba(0, 0, 0, 0.55);
+      }
+
+      /* ─────────────────────────────────────────────────────────────────────
+       * "Force light mode" escape hatch (2026-05-18).
+       *
+       * The `color-scheme: light only` declaration on `:root` is the primary
+       * defence against browser-level dark-mode forcing (Chrome Auto Dark
+       * Theme, Edge force-dark, prefers-color-scheme overrides). The
+       * `html.display-colour-locked` class is a SECONDARY override the
+       * participant can opt into from the screen-calibration page if their
+       * display still looks darkened despite the lock — kiosk user
+       * stylesheets, embedded Prolific-mobile webviews, OS-level colour
+       * filters (Windows Night Light, macOS True Tone), and accessibility
+       * profiles can still recolour our surface in edge cases.
+       *
+       * The class pins every level of the page chrome to the design
+       * palette with `!important` (which beats per-trial inline backgroundColor
+       * set by `page-background.js`, AND any user stylesheet on the browser),
+       * and `forced-color-adjust: none` opts out of Windows High Contrast
+       * Mode's automatic palette substitution so the bull's-eye / arrow /
+       * pattern colours we paint by hand stay as authored.
+       *
+       * Per-trial flips still work — the trial-bg attribute selectors below
+       * keep their per-shade rules but become `!important` once the lock is
+       * engaged. The participant's choice is also stamped into the
+       * `screen_calibration` row so the analyst can stratify by whether the
+       * lock was needed.
+       * ──────────────────────────────────────────────────────────────────── */
+      html.display-colour-locked,
+      html.display-colour-locked body,
+      html.display-colour-locked .jspsych-display-element {
+        background-color: #d3d3d3 !important;
+        color: #000 !important;
+        forced-color-adjust: none;
+      }
+      html.display-colour-locked[data-trial-bg='white'],
+      html.display-colour-locked[data-trial-bg='white'] body,
+      html.display-colour-locked[data-trial-bg='white'] .jspsych-display-element {
+        background-color: #ffffff !important;
+      }
+      html.display-colour-locked[data-trial-bg='gray'],
+      html.display-colour-locked[data-trial-bg='gray'] body,
+      html.display-colour-locked[data-trial-bg='gray'] .jspsych-display-element {
+        background-color: #d3d3d3 !important;
       }
       .jspsych-content {
         max-width: 720px;
@@ -317,13 +380,13 @@
         background: rgba(0, 0, 0, 0.35);
       }
     </style>
-    <script type="module" crossorigin src="./assets/main-BqwO_S5q.js"></script>
+    <script type="module" crossorigin src="./assets/main-DAKdJNZv.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
     <link rel="modulepreload" crossorigin href="./assets/config-DmeTTinz.js">
     <link rel="modulepreload" crossorigin href="./assets/index-D84Ls8co.js">
     <link rel="modulepreload" crossorigin href="./assets/pattern-8GUrvjHu.js">
-    <link rel="modulepreload" crossorigin href="./assets/main-blocks-Coy6r1wb.js">
-    <link rel="modulepreload" crossorigin href="./assets/debrief-17g16ZH3.js">
+    <link rel="modulepreload" crossorigin href="./assets/main-blocks-COusPVmW.js">
+    <link rel="modulepreload" crossorigin href="./assets/debrief-Bn10aC_K.js">
     <link rel="stylesheet" crossorigin href="./assets/index-BF-BwXlM.css">
   </head>
   <body>
