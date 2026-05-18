@@ -108,20 +108,13 @@
         color: rgba(0, 0, 0, 0.6);
       }
       /* The trial-start-gate hint ("Press both arrow keys to start the
-       * next trial.") is a body-level `position: fixed` overlay that
-       * carries an inline `color: gray` for the dark-theme default. On
-       * a light-shade trial page that mid-gray-on-light-gray pair sits
-       * uncomfortably low contrast, so switch it to dim ink under the
-       * trial-bg selectors. Alpha 0.55 mirrors the bull's-eye
-       * fixation-mark colour used on light pages
-       * (`FIXATION_MARK_COLOUR_DARK` in src/visuals/colour-palette.js)
-       * so the hint and the central fixation aid share visual weight.
-       * Specificity matches the inline `color: gray` because the
-       * `html[data-trial-bg]` ancestor wins on cascade order. */
-      html[data-trial-bg='white'] .trial-start-hint,
-      html[data-trial-bg='gray'] .trial-start-hint {
-        color: rgba(0, 0, 0, 0.55);
-      }
+       * next trial.") used to need a per-trial-bg color override because
+       * the legacy dim-gray text-on-page treatment lost contrast on
+       * light-shade trial pages. As of 2026-05-18 the hint renders as a
+       * self-contained pill (white background, black text, thin black
+       * border) — same pattern as the instruction-page continue hint —
+       * so it stays legible on every page background and no cascade
+       * override is needed. */
 
       /* ─────────────────────────────────────────────────────────────────────
        * "Force light mode" escape hatch (2026-05-18).
@@ -380,12 +373,12 @@
         background: rgba(0, 0, 0, 0.35);
       }
     </style>
-    <script type="module" crossorigin src="./assets/main-BDTRlc1n.js"></script>
+    <script type="module" crossorigin src="./assets/main-B8K4XUYD.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
     <link rel="modulepreload" crossorigin href="./assets/config-DmeTTinz.js">
     <link rel="modulepreload" crossorigin href="./assets/index-D84Ls8co.js">
     <link rel="modulepreload" crossorigin href="./assets/pattern-8GUrvjHu.js">
-    <link rel="modulepreload" crossorigin href="./assets/main-blocks-B00PDtMc.js">
+    <link rel="modulepreload" crossorigin href="./assets/main-blocks-Dv2I8YZX.js">
     <link rel="modulepreload" crossorigin href="./assets/debrief-TljHxqxy.js">
     <link rel="stylesheet" crossorigin href="./assets/index-BF-BwXlM.css">
   </head>
