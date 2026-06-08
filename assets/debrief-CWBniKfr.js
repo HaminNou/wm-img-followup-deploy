@@ -1,4 +1,4 @@
-import{H as g,d as h,e as w,f as v,h as _,u as k,j as b,k as S}from"./index-D84Ls8co.js";const $=["display: inline-block","margin: 1.25rem auto 0.25rem","padding: 0.65rem 1.3rem","background: #FFFFFF","color: #000000","font-size: 1.05rem","font-weight: 600","line-height: 1.3","border: 1.5px solid #000000","border-radius: 0.55rem","box-shadow: 0 1px 2px rgba(0,0,0,0.10)","text-align: center","max-width: 44rem"].join("; ");function c(e){return`<div style="text-align: center; width: 100%;"><div style="${$}">${e}</div></div>`}const m="upload-progress-mount",P=5e3,R=1e3;function A({session:e,endpoint:t,label:i}={}){if(!e)throw new Error("uploadProgressNode: session is required");return{type:g,stimulus:`
+import{H as g,d as h,e as w,f as v,h as _,u as k,j as b,k as S}from"./index-CB_xK634.js";const $=["display: inline-block","margin: 1.25rem auto 0.25rem","padding: 0.65rem 1.3rem","background: #FFFFFF","color: #000000","font-size: 1.05rem","font-weight: 600","line-height: 1.3","border: 1.5px solid #000000","border-radius: 0.55rem","box-shadow: 0 1px 2px rgba(0,0,0,0.10)","text-align: center","max-width: 44rem"].join("; ");function c(e){return`<div style="text-align: center; width: 100%;"><div style="${$}">${e}</div></div>`}const m="upload-progress-mount",P=5e3,R=1e3;function A({session:e,endpoint:t,label:i}={}){if(!e)throw new Error("uploadProgressNode: session is required");return{type:g,stimulus:`
       <div style="display: grid; place-items: center; gap: 1.25rem; max-width: 36rem; margin: 0 auto;">
         <h2 style="margin: 0;">Saving your data</h2>
         <p style="margin: 0; opacity: 0.85;">Please don't close this tab — this usually takes only a few seconds.</p>
@@ -41,4 +41,4 @@ import{H as g,d as h,e as w,f as v,h as _,u as k,j as b,k as S}from"./index-D84L
       If the redirect doesn't happen, <a href="${u(e)}" style="color: #60a5fa;">click here</a>.
     </p>
   `}export{M as a,c,A as u};
-//# sourceMappingURL=debrief-TljHxqxy.js.map
+//# sourceMappingURL=debrief-CWBniKfr.js.map
