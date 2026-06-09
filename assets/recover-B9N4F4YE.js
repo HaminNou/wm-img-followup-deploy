@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as f}from"./config-DSJqK44t.js";import{i as b,g as w,b as y,c as $,d as v,e as _,p as x,u as I}from"./uploader-_7_cN0H9.js";const P=document.getElementById("mount");function d(s){P.innerHTML=`<h2>Data Recovery</h2>${s}`}function r(s){return String(s).replace(/[&<>"']/g,t=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[t])}async function S(){let s;try{s=(await b()).kind}catch{d(`
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as f}from"./config-DSJqK44t.js";import{i as b,g as w,b as y,c as $,d as v,e as _,p as x,u as I}from"./uploader-DqcxzQhC.js";const P=document.getElementById("mount");function d(s){P.innerHTML=`<h2>Data Recovery</h2>${s}`}function r(s){return String(s).replace(/[&<>"']/g,t=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[t])}async function S(){let s;try{s=(await b()).kind}catch{d(`
       <p class="error">Could not open browser storage. This can happen if you
       cleared your browser data or are using a different browser than the one
       you used for the experiment.</p>
@@ -46,4 +46,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as f}from"./config-DSJqK44
         <br><br>Please try again, or contact the researcher through Prolific messaging.`,t.disabled=!1,t.textContent="Retry"):(o.innerHTML=`<span class="error">Upload could not start (${r(e.status)}).
         Please contact the researcher through Prolific messaging.</span>`,t.disabled=!1,t.textContent="Retry")}catch(e){o.innerHTML=`<span class="error">Unexpected error: ${r(e.message)}</span>
       <br><br>Please try again, or contact the researcher through Prolific messaging.`,t.disabled=!1,t.textContent="Retry"}}S().catch(s=>{console.error("[recover] fatal error",s),d(`<p class="error">Something went wrong: ${r(s.message)}</p>`)});
-//# sourceMappingURL=recover-B4gctlTO.js.map
+//# sourceMappingURL=recover-B9N4F4YE.js.map

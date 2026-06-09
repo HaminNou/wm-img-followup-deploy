@@ -1,4 +1,4 @@
-import{H as g}from"./index-yzbAS2-H.js";import{f as h,h as w,j as v,k as _,u as k,g as b,l as S}from"./uploader-_7_cN0H9.js";const $=["display: inline-block","margin: 1.25rem auto 0.25rem","padding: 0.65rem 1.3rem","background: #FFFFFF","color: #000000","font-size: 1.05rem","font-weight: 600","line-height: 1.3","border: 1.5px solid #000000","border-radius: 0.55rem","box-shadow: 0 1px 2px rgba(0,0,0,0.10)","text-align: center","max-width: 44rem"].join("; ");function c(e){return`<div style="text-align: center; width: 100%;"><div style="${$}">${e}</div></div>`}const m="upload-progress-mount",P=5e3,R=1e3;function M({session:e,endpoint:t,label:i}={}){if(!e)throw new Error("uploadProgressNode: session is required");return{type:g,stimulus:`
+import{H as g}from"./index-7I2jrT1Q.js";import{h,j as w,k as v,l as _,u as k,g as b,m as S}from"./uploader-DqcxzQhC.js";const $=["display: inline-block","margin: 1.25rem auto 0.25rem","padding: 0.65rem 1.3rem","background: #FFFFFF","color: #000000","font-size: 1.05rem","font-weight: 600","line-height: 1.3","border: 1.5px solid #000000","border-radius: 0.55rem","box-shadow: 0 1px 2px rgba(0,0,0,0.10)","text-align: center","max-width: 44rem"].join("; ");function c(e){return`<div style="text-align: center; width: 100%;"><div style="${$}">${e}</div></div>`}const m="upload-progress-mount",P=5e3,R=1e3;function M({session:e,endpoint:t,label:i}={}){if(!e)throw new Error("uploadProgressNode: session is required");return{type:g,stimulus:`
       <div style="display: grid; place-items: center; gap: 1.25rem; max-width: 36rem; margin: 0 auto;">
         <h2 style="margin: 0;">Saving your data</h2>
         <p style="margin: 0; opacity: 0.85;">Please don't close this tab — this usually takes only a few seconds.</p>
@@ -41,4 +41,4 @@ import{H as g}from"./index-yzbAS2-H.js";import{f as h,h as w,j as v,k as _,u as 
       If the redirect doesn't happen, <a href="${u(e)}" style="color: #60a5fa;">click here</a>.
     </p>
   `}export{C as a,c,M as u};
-//# sourceMappingURL=debrief-DbZ6yJfj.js.map
+//# sourceMappingURL=debrief-8wlWwkYi.js.map
