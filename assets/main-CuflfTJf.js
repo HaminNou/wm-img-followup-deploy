@@ -1184,7 +1184,7 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,H as N,g as Ne,i as u
           ${L("Press <kbd>Space</kbd> to continue.")}
         </div>
       </div>
-    `,choices:[" "],data:{phase:"end_of_task_intro"},on_load:()=>{wn(),pt()}};return v(t,sn),b(e,t)}const S=un(),Rr=kn();function Dr(){if(ht(),typeof Image<"u"){const t=new Image;t.src="./assets/rotation-arrow.png"}}Dr();const we=hn({display_element:void 0,on_trial_start:Mn(),on_data_update:t=>{mt(t).catch(e=>{console.error("[runner] storage append failed",e),ft(e)})},on_finish:()=>{const t=we.data?.get?.();t&&typeof t.addProperties=="function"&&t.addProperties({session_id:S.params.session_id,prolific_pid:S.params.prolific_pid,study_id:S.params.study_id,is_preview:S.params.is_preview,is_pilot_run:S.is_pilot_run,pilot_label:S.pilot_label,prng_seed_uint32:S.prng_seed_uint32,schema_version:S.schema_version,build_id:S.build_id}),console.info("[runner] session",S,"visibility",qo())}});window.jsPsych=we;qn(we);const dt=_n(),zr=[...Vo(),...Pr(),rn(),...dt.mainA.nodes,vn({session:S}),an(),...dt.mainB.nodes,sn(),...Cr(),Tn({session:S}),xn()];Rr.then(()=>we.run(zr)).catch(t=>{console.error("[runner] fatal startup failure",t);const e=document.body;e.innerHTML=`
+    `,choices:[" "],data:{phase:"end_of_task_intro"},on_load:()=>{wn(),pt()}};return v(t,sn),b(e,t)}const S=un(),Rr=kn();function Dr(){if(ht(),typeof Image<"u"){const t=new Image;t.src="./assets/rotation-arrow.png"}}Dr();const we=hn({display_element:void 0,on_trial_start:Mn(),on_data_update:t=>{mt(t).catch(e=>{console.error("[runner] storage append failed",e),ft(e)})},on_finish:()=>{const t=we.data?.get?.();t&&typeof t.addProperties=="function"&&t.addProperties({session_id:S.params.session_id,prolific_pid:S.params.prolific_pid,study_id:S.params.study_id,is_preview:S.params.is_preview,is_pilot_run:S.is_pilot_run,pilot_label:S.pilot_label,prng_seed_uint32:S.prng_seed_uint32,schema_version:S.schema_version,build_id:S.build_id}),console.info("[runner] session",S,"visibility",qo())}});window.jsPsych=we;new URLSearchParams(window.location.search).has("devnav")&&qn(we);const dt=_n(),zr=[...Vo(),...Pr(),rn(),...dt.mainA.nodes,vn({session:S}),an(),...dt.mainB.nodes,sn(),...Cr(),Tn({session:S}),xn()];Rr.then(()=>we.run(zr)).catch(t=>{console.error("[runner] fatal startup failure",t);const e=document.body;e.innerHTML=`
       <div style="max-width: 36rem; margin: 4rem auto; padding: 2rem; text-align: center;">
         <h2>Unable to start the experiment</h2>
         <p>Your browser is blocking the local storage this study needs. Please
@@ -1193,4 +1193,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as p,H as N,g as Ne,i as u
         <p><small>Error reference: <code>${t&&t.message||"unknown"}</code></small></p>
       </div>
     `});
-//# sourceMappingURL=main-DHOkUaVI.js.map
+//# sourceMappingURL=main-CuflfTJf.js.map
