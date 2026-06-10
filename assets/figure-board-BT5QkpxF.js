@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as R,i as S,j as D,d as M,e as O,f as z,s as q,k as T,o as $}from"./pattern-5Ezfdat3.js";import{c as A}from"./config-DSJqK44t.js";const I="./assets/rotation-arrow.png",k="#0BC926",_=188,w=188,P=1.97,B="rgba(255, 255, 255, 0.7)",L="rgba(255, 255, 255, 0.88)",U="rgba(255, 255, 255, 0.86)",Q="rgba(255, 255, 255, 0.72)",G=2.2,X=2.1,Y=2.7,j=44,H=7,W=54,K=4,V=-10;function J(){const e=document.createElement("style");e.textContent=`
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as R,i as S,j as D,d as M,e as O,f as z,s as q,k as T,o as $}from"./pattern-Bc3q6Euo.js";import{c as A}from"./config-DSJqK44t.js";const I="./assets/rotation-arrow.png",k="#0BC926",_=188,w=188,P=1.97,B="rgba(255, 255, 255, 0.7)",L="rgba(255, 255, 255, 0.88)",U="rgba(255, 255, 255, 0.86)",Q="rgba(255, 255, 255, 0.72)",G=2.2,X=2.1,Y=2.7,j=44,H=7,W=54,K=4,V=-10;function J(){const e=document.createElement("style");e.textContent=`
     #figure-board {
       width: 2720px;
       margin: 0 auto;
@@ -176,4 +176,4 @@ import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as R,i as S,j as D,d as M,
     <div class="keyline"><strong>Feedback rule</strong><br>Only answered stars and answered memory probes were recoloured.</div>
     <div><strong>Auditory note</strong><br>Tone-bearing events were heard through the participant's audio output while the grid display itself stayed visually unchanged.</div>
   `,e.appendChild(c)}function ae(){J();const e=document.getElementById("figure-board"),n=document.createElement("div");n.className="figure-shell";const t=document.createElement("div");t.className="figure-grid",n.appendChild(t),e.appendChild(n);const o=$(),r=T(),a=y("A","Single-task working-memory trials");ne(a.canvas,o,r),t.appendChild(a.panel);const s=y("B","Imagery-only trial and periodic reminder","panel-right");ie(s.canvas,o,r),t.appendChild(s.panel);const c=y("C","Dual-task trial structures","panel-bottom");oe(c.canvas,o,r),t.appendChild(c.panel);const u=y("D","Representative displays and response logic","panel-right panel-bottom");re(u.canvas,o,r),t.appendChild(u.panel),document.body.dataset.captureReady="true"}ae();
-//# sourceMappingURL=figure-board-BNciBo5U.js.map
+//# sourceMappingURL=figure-board-BT5QkpxF.js.map
