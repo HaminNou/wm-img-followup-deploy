@@ -3,7 +3,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "model": "edge-tts",
   "rate": "-15%",
-  "rendered_at": "2026-06-10T03:42:52.849Z",
+  "rendered_at": "2026-06-10T04:18:43.246Z",
   "entries": {
     "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d": {
       "file": "032c18f46c3247570791eaa2dce7d0f836157381fc30a51cc9b852d458f0ad0d.mp3",
@@ -3915,6 +3915,209 @@
           "text": "green",
           "offset_ms": 4897,
           "duration_ms": 485
+        }
+      ]
+    },
+    "23bdbbe95f2864941e8bab00a5825a8391480d6cbdc38fb354cc6e0a21e0c336": {
+      "file": "23bdbbe95f2864941e8bab00a5825a8391480d6cbdc38fb354cc6e0a21e0c336.mp3",
+      "bytes": 176544,
+      "chars": 218,
+      "text_preview": "Please try to be as accurate as you can during the practice trials. If your overall practice score falls below 70% , yo…",
+      "word_boundaries": [
+        {
+          "text": "Please",
+          "offset_ms": 162,
+          "duration_ms": 176
+        },
+        {
+          "text": "try",
+          "offset_ms": 338,
+          "duration_ms": 191
+        },
+        {
+          "text": "to",
+          "offset_ms": 529,
+          "duration_ms": 88
+        },
+        {
+          "text": "be",
+          "offset_ms": 618,
+          "duration_ms": 191
+        },
+        {
+          "text": "as",
+          "offset_ms": 809,
+          "duration_ms": 103
+        },
+        {
+          "text": "accurate",
+          "offset_ms": 912,
+          "duration_ms": 647
+        },
+        {
+          "text": "as",
+          "offset_ms": 1956,
+          "duration_ms": 147
+        },
+        {
+          "text": "you",
+          "offset_ms": 2118,
+          "duration_ms": 88
+        },
+        {
+          "text": "can",
+          "offset_ms": 2206,
+          "duration_ms": 147
+        },
+        {
+          "text": "during",
+          "offset_ms": 2368,
+          "duration_ms": 279
+        },
+        {
+          "text": "the",
+          "offset_ms": 2647,
+          "duration_ms": 74
+        },
+        {
+          "text": "practice",
+          "offset_ms": 2721,
+          "duration_ms": 485
+        },
+        {
+          "text": "trials",
+          "offset_ms": 3221,
+          "duration_ms": 721
+        },
+        {
+          "text": "If",
+          "offset_ms": 4426,
+          "duration_ms": 132
+        },
+        {
+          "text": "your",
+          "offset_ms": 4559,
+          "duration_ms": 162
+        },
+        {
+          "text": "overall",
+          "offset_ms": 4721,
+          "duration_ms": 485
+        },
+        {
+          "text": "practice",
+          "offset_ms": 5221,
+          "duration_ms": 500
+        },
+        {
+          "text": "score",
+          "offset_ms": 5735,
+          "duration_ms": 382
+        },
+        {
+          "text": "falls",
+          "offset_ms": 6118,
+          "duration_ms": 324
+        },
+        {
+          "text": "below",
+          "offset_ms": 6441,
+          "duration_ms": 426
+        },
+        {
+          "text": "70%",
+          "offset_ms": 6868,
+          "duration_ms": 1029
+        },
+        {
+          "text": "you",
+          "offset_ms": 8412,
+          "duration_ms": 88
+        },
+        {
+          "text": "will",
+          "offset_ms": 8500,
+          "duration_ms": 88
+        },
+        {
+          "text": "be",
+          "offset_ms": 8588,
+          "duration_ms": 162
+        },
+        {
+          "text": "returned",
+          "offset_ms": 8750,
+          "duration_ms": 529
+        },
+        {
+          "text": "to",
+          "offset_ms": 9294,
+          "duration_ms": 88
+        },
+        {
+          "text": "the",
+          "offset_ms": 9382,
+          "duration_ms": 103
+        },
+        {
+          "text": "beginning",
+          "offset_ms": 9500,
+          "duration_ms": 500
+        },
+        {
+          "text": "of",
+          "offset_ms": 10015,
+          "duration_ms": 74
+        },
+        {
+          "text": "the",
+          "offset_ms": 10088,
+          "duration_ms": 74
+        },
+        {
+          "text": "instructions",
+          "offset_ms": 10176,
+          "duration_ms": 897
+        },
+        {
+          "text": "to",
+          "offset_ms": 11397,
+          "duration_ms": 191
+        },
+        {
+          "text": "read",
+          "offset_ms": 11603,
+          "duration_ms": 250
+        },
+        {
+          "text": "them",
+          "offset_ms": 11868,
+          "duration_ms": 176
+        },
+        {
+          "text": "again",
+          "offset_ms": 12059,
+          "duration_ms": 574
+        },
+        {
+          "text": "and",
+          "offset_ms": 12868,
+          "duration_ms": 132
+        },
+        {
+          "text": "repeat",
+          "offset_ms": 13000,
+          "duration_ms": 397
+        },
+        {
+          "text": "the",
+          "offset_ms": 13412,
+          "duration_ms": 74
+        },
+        {
+          "text": "practice",
+          "offset_ms": 13485,
+          "duration_ms": 794
         }
       ]
     },

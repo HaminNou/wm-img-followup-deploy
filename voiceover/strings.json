@@ -80,6 +80,10 @@
     "source": "demos.caption70"
   },
   {
+    "text": "Please try to be as accurate as you can during the practice trials. If your overall practice score falls below 70% , you will be returned to the beginning of the instructions to read them again and repeat the practice.",
+    "source": "instructions.practiceReadinessNode.stimulus#0"
+  },
+  {
     "text": "Practice is over. The main trials start now. There are two blocks of 60 trials. Each block includes a 30-second rest after trials 20 and 40, and there is another 30-second rest between the two blocks. Same controls as the practice: Yes / On-pattern on the → RIGHT arrow key, No / Not on-pattern on the ← LEFT arrow key. Important: Before you press both arrow keys to start each trial, look at the label shown above the circle. It tells you what type of trial is coming next, so you know what to expect. Press Space to begin Block 1.",
     "source": "runner-intros.mainAIntroNode.stimulus#0"
   },
